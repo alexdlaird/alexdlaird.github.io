@@ -2,7 +2,8 @@ baseURL = "https://www.alexlaird.com/"
 languageCode = "en-us"
 title = "Alex Laird"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [permalinks]
   [permalinks.page]
