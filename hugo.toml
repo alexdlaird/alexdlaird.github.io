@@ -1,0 +1,87 @@
+baseURL = "https://www.alexlaird.com/"
+languageCode = "en-us"
+title = "Alex Laird"
+theme = "PaperMod"
+paginate = 10
+
+[permalinks]
+  [permalinks.page]
+    posts = '/:year/:month/:slug/'
+  [permalinks.section]
+    posts = '/:year/:month/:slug/'
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  showRssButtonInSectionTermList = true
+  displayFullLangName = true
+  favicon = "/favicon.png"
+
+  [params.homeInfoParams]
+    Title = "Alex Laird"
+    Content = "Staff Engineer @ Twilio · Open Source Maintainer"
+
+  [params.profileMode]
+    enabled = true
+    title = "Alex Laird"
+    subtitle = "Staff Engineer @ Twilio · Open Source Maintainer"
+    imageUrl = "https://avatars.githubusercontent.com/u/1660326?v=4"
+    imageWidth = 150
+    imageHeight = 150
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/alexdlaird"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/alexdlaird/"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[params.cover]
+  hiddenInList = false
+  hiddenInSingle = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "helium"
+    name = "Helium – Student Planner"
+    url = "https://www.heliumedu.com"
+    weight = 4
+
