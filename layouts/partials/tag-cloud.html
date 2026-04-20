@@ -1,0 +1,16 @@
+{{ $max := 0 }}
+{{ range .Site.Taxonomies.tags }}
+  {{ if gt (len .Pages) $max }}{{ $max = len .Pages }}{{ end }}
+{{ end }}
+
+{{ if gt $max 0 }}
+<div class="tag-cloud">
+  {{ range .Site.Taxonomies.tags }}
+    {{ $weight := div (mul (len .Pages) 100) $max }}
+    {{ $size := add 80 (mul $weight 2) }}
+    <a href="{{ .Page.Permalink }}" style="font-size: {{ $size }}%;">
+      {{ .Page.Title }}
+    </a>
+  {{ end }}
+</div>
+{{ end }}
