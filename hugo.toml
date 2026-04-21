@@ -82,7 +82,10 @@ theme = "PaperMod"
 
   [[menu.main]]
     identifier = "helium"
-    name = "Helium – Student Planner"
+    name = "Helium"
+    post = "<span class=\"menu-item-extra\"> – Student Planner</span>"
     url = "https://www.heliumedu.com"
     weight = 4
+    [menu.main.params]
+      target = "_blank"
 

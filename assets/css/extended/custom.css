@@ -1,3 +1,9 @@
+@media (max-width: 768px) {
+  .menu-item-extra {
+    display: none;
+  }
+}
+
 .tag-cloud {
   display: flex;
   flex-wrap: wrap;
