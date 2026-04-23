@@ -10,7 +10,7 @@ After hours of frustration and failure, I finally set up a USB bootable Linux di
 
 I’ve been perusing this fine internet of hours all day, reviewing and attempting to complete step-by-step tutorials that were supposed to allow me to do this. Unfortunately, none of them would actually work on my MacBook Pro, as they promised they would. After finally acquiring a resolution, I decided to post my own step-by-step set of instructions that also claimed to work for a BIOS system or an EFI system. Hopefully it actually works for you as it did for me :).
 
- 
+ 
 
 ## My System, My Recommendation, and My Disclaimer
 
@@ -18,9 +18,9 @@ The systems I was trying to get this work was in conjunction with my out dated, 
 
 Doing all of this in no way effected positively or negatively the booting, reliability or functionality of OS X Leopard or Windows 7 on my system or Windows XP on any of the BIOS-based systems I ran this on. However, as always, proceed at your own risk.
 
-I recommend the 4GB flash drive from Amazon below, as it is cheap and reliable. Though you don't need a full 4GB flash drive, if you ever want to throw a larger distribution of Linux onto the flash drive at any time, or if you'd like to use the drive for other storage at a later date, this is a good size and a great price.  Also ... it's hard to find a smaller drive than 4GB these days!
+I recommend the 4GB flash drive from Amazon below, as it is cheap and reliable. Though you don't need a full 4GB flash drive, if you ever want to throw a larger distribution of Linux onto the flash drive at any time, or if you'd like to use the drive for other storage at a later date, this is a good size and a great price.  Also ... it's hard to find a smaller drive than 4GB these days!
 
- 
+ 
 
 ## Setting Up an EFI System
 
@@ -33,7 +33,7 @@ Complicated, huh? The initial restart after installing rEFIt will not show a boo
 
 rEFIt will essentially overtake Boot Camp. Before installing rEFIt on my system, when I wanted to boot into Windows 7 I had to hold down the Alt-Option key when booting. Once rEFIt is installed, the boot menu is shown whenever the computer is booted. After a given number of seconds, it will boot into the default operating system, which is usually OS X.
 
- 
+ 
 
 ## Setting Up a BIOS System
 
@@ -46,7 +46,7 @@ Your BIOS must support the ability to boot from a USB drive. Follow these instru
 5. You will most likely need to change the boot sequence, moving your USB drive higher than your standard HDD.
 6. Make sure that you save your changes to the BIOS before restarting.
 
- 
+ 
 
 ## Setting Up Your USB Drive
 
@@ -65,7 +65,7 @@ In a Windows environment (it’s just easiest that way, trust me), follow these 
 9. From the win32 folder of Syslinux, type “syslinux.exe -ma :” where is replaced with the drive letter of your USB drive. Most commonly this will be E or F (it does need to be followed by a colon), but you can verify this by checking in My Computer.
 10. Assuming you don’t receive any errors, your USB drive should now be set up for booting.
 
- 
+ 
 
 ## Conclusion
 

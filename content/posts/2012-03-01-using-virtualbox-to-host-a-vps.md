@@ -10,15 +10,15 @@ Oracle's VM VirtualBox is a virtualization program that allows you to run anothe
 
 This post does nothing to compare benchmarks between more efficient (and recommended) VPS environments such as VMware or Linux-VServer, and I would not recommend using VirtualBox as a VPS in a production environment. However, it is useful in many situations, and I'll let you be the judge of when this should or should not be done. It is certainly acceptable for personal and developmental purposes. And hosting a VPS through something like VirtualBox that is extremely simply to setup and use allows you to easily experiment with configurations and operating systems, or even jump between multiple VPSs on the same computer.
 
-This tutorial assumes you have a rudimentary knowledge of server software and operating systems. I'm going to be explaining virtualization to you, not the details of the server installation and configuration.
+This tutorial assumes you have a rudimentary knowledge of server software and operating systems. I'm going to be explaining virtualization to you, not the details of the server installation and configuration.
 
- 
+ 
 
 # Setting Up VirtualBox
 
-First, some definitions. When I refer to the _host_ operating system, that is the primary operating system that your computer boots into. When I refer to the _guest_ operating system, that is the virtualized system that is run from within VirtualBox_._ There will also be references to IP address and ports on the _host_ and _guest_. They follow the same theme. Now that we've got that of the way ...
+First, some definitions. When I refer to the _host_ operating system, that is the primary operating system that your computer boots into. When I refer to the _guest_ operating system, that is the virtualized system that is run from within VirtualBox_._ There will also be references to IP address and ports on the _host_ and _guest_. They follow the same theme. Now that we've got that of the way ...
 
-You can pick up VirtualBox for free from [their website here](https://www.virtualbox.org/ "VirtualBox"). Download and run the installer for your _host_ operating system. Congratulations. VirtualBox is now ready to run. Unfortunately, it doesn't have a _guest_ operating system installed or configured yet, so it doesn't do much for you. But before we actually install one of those, let's create a virtual environment for it and configure some VirtualBox settings.
+You can pick up VirtualBox for free from [their website here](https://www.virtualbox.org/ "VirtualBox"). Download and run the installer for your _host_ operating system. Congratulations. VirtualBox is now ready to run. Unfortunately, it doesn't have a _guest_ operating system installed or configured yet, so it doesn't do much for you. But before we actually install one of those, let's create a virtual environment for it and configure some VirtualBox settings.
 
 In VirtualBox, click New to create an environment where we install a _guest_ operating system. I'm assuming you're a civilized human being and installing a Linux server operating system, so select Linux, then select the version of operating system you're using. If the exact version isn't in the VirtualBox list, select the parent Linux distribution (for instance, for CentOS you'd select Fedora).
 
@@ -28,7 +28,7 @@ Now, to make that guest environment accessible to our host computer. Right-click
 
 Go back to the "Adapter 1" tab, make sure this adapter is "Attached to: NAT", and click "Advanced". Click on "Port Forwarding" and add a new TCP forward. Let's call it "SSH". Specify 22 for the host and guest ports. This will forward the host machines port 22 to the guest machines port 22—they don't have to be the same, they just have to match other configurations on the host and guest side of things. It's also worth adding an "HTTP" forward for port 80 as well as any other the forwards for ports controlling any other services you'd like accessible from the guest environment.
 
- 
+ 
 
 # Server Operating System
 
@@ -38,7 +38,7 @@ Right-click on your guest environment and select "Settings". From the list on th
 
 If you're installing Ubuntu Server, selecting OpenSSH during the install process as well as LAMP and any other services you'd like available will make things much easier for you. However, as I said above, this tutorial assumes you have a rudimentary knowledge of server operating systems, so I'm not going to go into the details of installing those services. But to prove that our port forwards worked, you should at least install OpenSSH (during installation or as soon as you boot into the environment), and if you are able to SSH to your host computer on port 22 and access the guest environment, then everything worked the way it should have.
 
- 
+ 
 
 # Launching Server When Computer is Booted
 
@@ -52,7 +52,7 @@ For maintenance purposes, you may also want to create a second BAT file for stop
 
 _VBoxManage controlvm "VM Name" poweroff_
 
- 
+ 
 
 # Access from External IP
 

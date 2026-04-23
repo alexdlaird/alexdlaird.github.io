@@ -14,13 +14,13 @@ Look no further. Below is the basic code for a drag-and-drop Django web applicat
 
 The code for this project [can be found on GitHub](https://github.com/alexdlaird/django-dropzone-to-s3).
 
-You'll need the following installed before cloning or forking the source code:
+You'll need the following installed before cloning or forking the source code:
 
 - [Python 2.7](https://www.python.org/downloads/)
 - [PyCrypto](https://www.dlitz.net/software/pycrypto/) (if you're on Windows, look at [these installers](http://www.voidspace.org.uk/python/modules.shtml#pycrypto))
 - [PIP](http://pip.readthedocs.org/en/latest/installing.html)
 
-This project will write to an [Amazon Web Services (AWS)](http://aws.amazon.com/) S3 storage bucket, so it's assumed you have an AWS account. If not, create one. S3 is a storage platform from Amazon, and EC2 allows you to spin up virtual servers, which you can use to host this project. If you're new to AWS, Amazon will likely give you the first year of their smallest EC2 instance free.
+This project will write to an [Amazon Web Services (AWS)](http://aws.amazon.com/) S3 storage bucket, so it's assumed you have an AWS account. If not, create one. S3 is a storage platform from Amazon, and EC2 allows you to spin up virtual servers, which you can use to host this project. If you're new to AWS, Amazon will likely give you the first year of their smallest EC2 instance free.
 
 This project also includes a deployment script, which allows you to easily deploy the project from your local computer to your server.
 
