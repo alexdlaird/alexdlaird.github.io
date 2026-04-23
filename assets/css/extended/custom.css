@@ -64,3 +64,8 @@ figure figcaption {
   margin-top: 0.5rem;
   font-style: italic;
 }
+
+.post-content a > img {
+  display: inline-block;
+  vertical-align: middle;
+}
