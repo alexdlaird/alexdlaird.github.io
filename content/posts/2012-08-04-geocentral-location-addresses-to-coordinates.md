@@ -13,7 +13,7 @@ The geocentral location is attained through relatively simple vector math. Let's
 
 I've put together a simple script below that interacts with Google Maps to do just that. Input a list of addresses in the text box below, attain the coordinates for each address, and plot each address, and the address' geocentral location, on the map below.
 
- 
+ 
 
 **A few things to keep in mind:**
 

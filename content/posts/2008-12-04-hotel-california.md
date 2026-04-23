@@ -9,9 +9,9 @@ Joe Kmetz and I were on our way to Krista’s house over Turkey Break and I had 
 
 Though you can play “Hotel California” on Guitar Hero by yourself and sound surprisingly similar to the original track, there’s nothing realistic about that. On the _Hell Freezes Over_ album, the Eagles used _eight_ guitars to perform this song. In the original studio mix, only five were used. Still, this should give you some measure of the caliber of this song. It is an amazing piece for guitar, and I never tire of listening to it.
 
-Musical melodies aside, the lyrics of the song span quite a bit of controversies. The interpretations of this song range from the drug use, cannibalism, Hotel California being another name for the Camarillo State Hospital (a psychiatric hospital), to devil worship and the Church of Satan.
+Musical melodies aside, the lyrics of the song span quite a bit of controversies. The interpretations of this song range from the drug use, cannibalism, Hotel California being another name for the Camarillo State Hospital (a psychiatric hospital), to devil worship and the Church of Satan.
 
-I’m going to have to go ahead and debunk all the most popular rumors, as none of them are even remotely close to being true (except possibly the drug use one, though indirectly). Let’s lay out the most popular rumors and look at why they aren’t true. For your convenience, you can find the lyrics to the song [here](http://www.azlyrics.com/lyrics/eagles/hotelcalifornia.html "Hotel California lyrics") and you can listen to the song [here](http://www.youtube.com/watch?v=7EhpyRjNNqs "Hotel California on YouTube").
+I’m going to have to go ahead and debunk all the most popular rumors, as none of them are even remotely close to being true (except possibly the drug use one, though indirectly). Let’s lay out the most popular rumors and look at why they aren’t true. For your convenience, you can find the lyrics to the song [here](http://www.azlyrics.com/lyrics/eagles/hotelcalifornia.html "Hotel California lyrics") and you can listen to the song [here](http://www.youtube.com/watch?v=7EhpyRjNNqs "Hotel California on YouTube").
 
 ## Background on the Eagles
 
@@ -91,6 +91,6 @@ It’s not a reference to any type of building, it’s not about cannibalism, an
 
 It makes sense if you consider that the song is the first on the album that addresses the issues of drugs, temptation, fame, relationships, and the American Dream.
 
- 
+ 
 
 There you have it! That’s the true meaning of the song _Hotel California_. I’m glad we had this discussion. I was sick of hearing comparisons to the Church of Satan.

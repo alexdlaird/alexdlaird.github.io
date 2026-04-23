@@ -34,11 +34,11 @@ Now sit back, open your mind, and smile, because this is meant for fun, not to s
 
 </div>
 
- 
+ 
 
 Alright, that's all for the disclaimer. Below I have listed the fourteen taglines Mac gives for its computers. Below those are Creston’s responses to those taglines. Below that is my opinion from my experience using both a Mac and a PC. Below that are links to some sites that will provide facts to prove my opinions (if possible). Enjoy!
 
- 
+ 
 
 ### _#1—It just works_
 
@@ -56,7 +56,7 @@ You're way out in left field in stating that "all Windows crashes are caused by 
 
 [MacNN.com](http://www.macnn.com/articles/05/05/26/consumer.reports.on.macs "Mac NN - Consumer Reports for Mac") - Consumer Reports for Mac
 
- 
+ 
 
 ### _#2—You can make amazing stuff_
 
@@ -70,7 +70,7 @@ You _can_ do amazing stuff! iLife '06 is a beautiful package that comes standard
 
 I don't need facts on this one. Go onto your Windows machine and open any of the software that came with your OS. It will say "you have 0 out of 30 days remaining on this trial period." Point and fact.
 
- 
+ 
 
 ### _#3—Design that turns heads_
 
@@ -90,7 +90,7 @@ Integrated components aren't actually more likely to fail, they're just harder t
 
 [Apple.com](http://www.apple.com/getamac/design.html "Apple - Design that Turns Heads") - Design that Turns Heads [Murphys-Laws.com](http://www.murphys-laws.com/murphy/murphy-laws.html "Murphy's Laws")
 
- 
+ 
 
 ### _#4—114,000 viruses? Not on a Mac_
 
@@ -110,7 +110,7 @@ The statistic has actually risen to 5% of the world using the Mac OS, and predic
 
 [TheAppleBlog.com](http://theappleblog.com/2005/06/24/viruses-on-mac-os-x/ "The Apple Blog - Hardly Any Viruses on a Mac") - Hardly Any Viruses on a Mac
 
- 
+ 
 
 ### _#5—Next year’s OS today_
 
@@ -144,7 +144,7 @@ As you may have noticed, Windows is trying to imitate Apple's slick design of Ti
 
 [Wikipedia.org](http://en.wikipedia.org/wiki/Outlook_Express "Wikipedia - Outlook Express") - Outlook Express
 
- 
+ 
 
 ### _#6—The latest Intel chips_
 
@@ -164,7 +164,7 @@ True, but Apple didn't claim to be the only company with Intel chips, did it? No
 
 [Intel.com](http://www.intel.com/products/processor/coreduo/index.htm "Intel - Intel Duo Core Processors") - Intel Duo Core Processors
 
- 
+ 
 
 ### _#7—Instant Video Chats_
 
@@ -182,7 +182,7 @@ Many notebooks do have webcams... ALL Mac laptops have webcams built it! I do ag
 
 None needed for this one.
 
- 
+ 
 
 ### _#8—More fun with Photos_
 
@@ -202,7 +202,7 @@ Again, many vendors include this type of free software as a 30 day trial version
 
 [Google.com](http://picasa.google.com/ "Google - Picasa") - Picasa
 
- 
+ 
 
 ### _#9—One Click Websites_
 
@@ -222,7 +222,7 @@ I'm not sure why you decided to compare a blog to a website, but there is a diff
 
 [BusinessLogs.com](http://businesslogs.com/technology/iwebgenerated_source_code_is_awful.php "Business Logs - iWeb Generated Source Code is Awful") - iWeb Generated Source Code is Awful
 
- 
+ 
 
 ### _#10—Amazing Podcasts_
 
@@ -240,7 +240,7 @@ Audacity is a beautiful program. It's open source and cross-platform. I use it o
 
 [SourceForget.net](http://audacity.sourceforge.net "Source Forge - Audacity") - Audacity
 
- 
+ 
 
 ### _#11—Rock star tunemaking_
 
@@ -256,7 +256,7 @@ Again, I don't really use GarageBand too often, so I don't relate to this reason
 
 [Cakewalk.com](http://store.cakewalk.com/b2cus/category.aspx?categoryID=55 "Cakewalk - Cakewalk Kinetic") - Cakewalk Kinetic
 
- 
+ 
 
 ### _#12—Hollywood style movies_
 
@@ -272,7 +272,7 @@ Actually, they're probably referring to Final Cut Studio, which costs $1,299 for
 
 [Apple.com](http://www.apple.com/finalcutexpress "Apple - Final Cut Express") - Final Cut Express
 
- 
+ 
 
 ### _#13—No hunting for drivers_
 
@@ -288,7 +288,7 @@ Sadly, you are correct about the Airport Extreme card. However, 802.11a, b, and 
 
 None needed for this one.
 
- 
+ 
 
 ### _#14—Awesome out of the box_
 
@@ -302,7 +302,7 @@ I agree. Check out my previous 13 rebuttals and I'm pretty sure you'll be sold o
 
 None needed for this one.
 
- 
+ 
 
 In closing, I hope there are no hard feelings. This was all just fun and games anyways, right? I had a lot of fun compiling this list.
 
