@@ -46,6 +46,10 @@ theme = "PaperMod"
     url = "https://www.linkedin.com/in/alexdlaird/"
 
   [[params.socialIcons]]
+    name = "patreon"
+    url = "https://www.patreon.com/alexdlaird/membership"
+
+  [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
 
@@ -79,13 +83,4 @@ theme = "PaperMod"
     name = "Search"
     url = "/search/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "helium"
-    name = "Helium"
-    post = "<span class=\"menu-item-extra\"> – Student Planner</span>"
-    url = "https://www.heliumedu.com"
-    weight = 4
-    [menu.main.params]
-      target = "_blank"
 

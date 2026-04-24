@@ -69,3 +69,66 @@ figure figcaption {
   display: inline-block;
   vertical-align: middle;
 }
+
+.home-content {
+  margin: 2rem auto 0;
+  max-width: var(--main-width);
+  padding: 0 var(--gap);
+}
+
+.home-content h2 {
+  margin-bottom: 1rem;
+}
+
+.project-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.2rem;
+  margin: 0.75rem 0;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.project-card-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-card-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.project-card-title a {
+  font-weight: bold;
+  color: var(--primary);
+}
+
+.project-card-desc {
+  color: var(--secondary);
+  font-size: 0.95rem;
+  margin-top: 0.25rem;
+}
+
+.project-card-desc p {
+  margin: 0;
+}
+
+.project-card-badge {
+  flex-shrink: 0;
+}
+
+.project-card-badge img {
+  max-width: 115px;
+}

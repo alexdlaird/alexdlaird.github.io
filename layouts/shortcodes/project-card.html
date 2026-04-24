@@ -1,0 +1,14 @@
+<div class="project-card">
+  <div class="project-card-content">
+    <div class="project-card-title">
+      <span class="project-card-icon" aria-hidden="true">{{ .Get "icon" }}</span>
+      <a href="{{ .Get "url" }}" target="_blank" rel="noopener">{{ .Get "name" }}</a>
+    </div>
+    <div class="project-card-desc">{{ .Inner | markdownify }}</div>
+  </div>
+  {{- with .Get "badge-url" }}
+  <a class="project-card-badge" href="{{ . }}" target="_blank" rel="noopener">
+    <img src="{{ $.Get "badge-img" }}" alt="{{ $.Get "badge-alt" | default "" }}" loading="lazy">
+  </a>
+  {{- end }}
+</div>
