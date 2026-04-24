@@ -70,6 +70,39 @@ figure figcaption {
   vertical-align: middle;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+.main .profile {
+  position: relative;
+}
+
+.profile-scroll-down {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  color: var(--secondary);
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+  animation: profile-scroll-bounce 2s infinite;
+}
+
+.profile-scroll-down:hover {
+  opacity: 1;
+}
+
+@keyframes profile-scroll-bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translate(-50%, 0); }
+  40% { transform: translate(-50%, -8px); }
+  60% { transform: translate(-50%, -4px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .profile-scroll-down { animation: none; }
+}
+
 .home-content {
   margin: 2rem auto 0;
   max-width: var(--main-width);
@@ -81,6 +114,7 @@ figure figcaption {
 }
 
 .project-card {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -110,7 +144,7 @@ figure figcaption {
   font-size: 1.1rem;
 }
 
-.project-card-title a {
+.project-card-name {
   font-weight: bold;
   color: var(--primary);
 }
@@ -126,9 +160,28 @@ figure figcaption {
 }
 
 .project-card-badge {
+  position: relative;
   flex-shrink: 0;
+  z-index: 2;
 }
 
 .project-card-badge img {
   max-width: 115px;
+}
+
+.project-card-desc a {
+  position: relative;
+  z-index: 2;
+}
+
+.project-card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: var(--radius);
+}
+
+.project-card-link:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
 }
