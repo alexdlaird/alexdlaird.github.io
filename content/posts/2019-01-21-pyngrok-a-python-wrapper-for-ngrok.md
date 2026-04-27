@@ -84,6 +84,11 @@ which allows
 you to pass additional tunnel configurations that are supported by `ngrok` (or the `name` of a tunnel defined in
 `ngrok`'s config file), [as documented here](https://pyngrok.readthedocs.io/en/latest/#tunnel-configurations).
 
+> **Note:** `pyngrok` unifies `ngrok`'s "tunnel" (v2) and "endpoint" (v3) concepts behind a single API: `connect()`
+> returns an `NgrokTunnel` and handles the differences for you through the `config_version` you set. Existing v2
+> code keeps working unchanged, and every v2 tunnel and v3 endpoint feature remains available. For v3-specific
+> usage, see [Using v3 Endpoints](https://pyngrok.readthedocs.io/en/latest/#using-v3-endpoints).
+
 ### `ngrok`'s API
 
 The [`api`](https://pyngrok.readthedocs.io/en/latest/api.html#pyngrok.ngrok.api) method allows you to use the local
