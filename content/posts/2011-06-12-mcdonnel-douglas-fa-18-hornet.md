@@ -1,6 +1,7 @@
 ---
 title: "McDonnel Douglas F/A-18 Hornet"
 date: 2011-06-12
+slug: "mcdonnel-douglas-fa-18-hornet"
 aliases:
   - /2011/06/mcdonnel-douglas-fa-18-hornet/050102-n-2984r-162/
   - /2011/06/mcdonnel-douglas-fa-18-hornet/080329-n-0640k-101/
