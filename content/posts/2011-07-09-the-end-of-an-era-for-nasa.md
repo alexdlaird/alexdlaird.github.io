@@ -1,6 +1,10 @@
 ---
 title: "The End of an Era for NASA"
 date: 2011-07-09
+aliases:
+  - /2011/07/the-end-of-an-era-for-nasa/aehf1/
+  - /2011/07/the-end-of-an-era-for-nasa/shuttle1/
+  - /2011/07/the-end-of-an-era-for-nasa/shuttle2/
 tags: 
   - "money"
   - "politics"

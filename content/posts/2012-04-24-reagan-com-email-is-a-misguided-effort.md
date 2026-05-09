@@ -1,6 +1,9 @@
 ---
 title: "Reagan.com Email is a Misguided Effort"
 date: 2012-04-24
+slug: "reagan-com-email-is-a-misguided-effort"
+aliases:
+  - /2012/04/reagan.com-email-is-a-misguided-effort/
 tags: 
   - "internet"
   - "politics"

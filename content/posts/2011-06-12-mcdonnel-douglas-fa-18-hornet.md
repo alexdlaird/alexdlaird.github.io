@@ -1,11 +1,17 @@
 ---
 title: "McDonnel Douglas F/A-18 Hornet"
 date: 2011-06-12
+aliases:
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/050102-n-2984r-162/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/080329-n-0640k-101/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/080929-n-7981e-400/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/7th-fleet-aor/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/blue-angels/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/enduring-freedom/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/f-18-flight/
+  - /2011/06/mcdonnel-douglas-fa-18-hornet/fa-18f-super-hornets/
 tags: 
-  - "quad"
-  - "city"
-  - "air"
-  - "show"
+  - "quad-city-air-show"
 ---
 
 The Fighter/Attack series is one most people are familiar with, and probably the most well-know set of aircraft the Unites States Navy and Air Force produce.  Unfortunately, the understood distinctions between each aircraft are not that well known.  Most commonly, all fighter aircraft are referred to as an F-16.  If you don't believe me, just look up a few YouTube videos; you'll be able to see variances in the details of the aircraft, but most of the videos are  will call the aircraft an F-16 ... it's sad, really.

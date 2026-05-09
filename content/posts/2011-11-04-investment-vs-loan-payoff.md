@@ -1,6 +1,9 @@
 ---
 title: "Investment vs. Loan Payoff"
 date: 2011-11-04
+slug: "investment-vs-loan-payoff"
+aliases:
+  - /2011/11/investment-vs.-loan-payoff/
 tags: 
   - "money"
 ---

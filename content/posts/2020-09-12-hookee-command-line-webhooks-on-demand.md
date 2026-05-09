@@ -1,6 +1,9 @@
 ---
 title: "hookee - command line webhooks, on demand"
 date: 2020-09-12
+slug: "hookee-command-line-webhooks-on-demand"
+aliases:
+  - /2020/09/hookee---command-line-webhooks-on-demand/
 tags: 
   - "education"
   - "flask"

@@ -1,6 +1,9 @@
 ---
 title: "Alex and Jess Are Raising Our Future"
 date: 2017-07-26
+slug: "alex-jess-raising-future"
+aliases:
+  - /2017/07/alex-and-jess-are-raising-our-future/
 tags: 
   - "family"
   - "internet"

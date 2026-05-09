@@ -1,6 +1,9 @@
 ---
 title: "Browser Reviews: A Brief History"
 date: 2008-09-25
+slug: "browser-reviews"
+aliases:
+  - /2008/09/browser-reviews-a-brief-history/
 tags: 
   - "google"
 ---

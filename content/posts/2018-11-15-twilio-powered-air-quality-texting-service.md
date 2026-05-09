@@ -1,9 +1,11 @@
 ---
 title: "Twilio-Powered Air Quality Texting Service"
 date: 2018-11-15
+aliases:
+  - /2018/11/twilio-powered-air-quality-texting-service/image_from_ios-width-808/
+  - /2018/11/twilio-powered-air-quality-texting-service/logo-2-2/
 tags: 
-  - "air"
-  - "quality"
+  - "air-quality"
   - "programming"
   - "twilio"
   - "wildfires"

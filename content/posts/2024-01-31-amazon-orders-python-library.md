@@ -1,6 +1,11 @@
 ---
 title: "amazon-orders for Python"
 date: 2024-01-31
+slug: "amazon-orders-python-library"
+aliases:
+  - /2024/01/amazon-orders-for-python/
+  - /2024/01/amazon-orders-for-python-library/
+  - /2024/01/amazon-orders-python-library/screenshot-2024-03-03-at-7-22-55-pm/
 tags: 
   - "amazon"
   - "python"

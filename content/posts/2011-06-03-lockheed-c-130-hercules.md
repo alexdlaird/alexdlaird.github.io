@@ -1,11 +1,14 @@
 ---
 title: "Lockheed C-130 Hercules"
 date: 2011-06-03
+aliases:
+  - /2011/06/lockheed-c-130-hercules/990101-f-5502b-002/
+  - /2011/06/lockheed-c-130-hercules/airwar0416/
+  - /2011/06/lockheed-c-130-hercules/c130_3/
+  - /2011/06/lockheed-c-130-hercules/c130_4/
+  - /2011/06/lockheed-c-130-hercules/c130_5/
 tags: 
-  - "quad"
-  - "city"
-  - "air"
-  - "show"
+  - "quad-city-air-show"
 ---
 
 My brother and I have always had an obsession with airplanes, spacecraft, and NASA that borders on the unhealthy.  Our obsessive endeavors have taken us annually to the Quad City Air Show, where we have drooled at our magnificent dreams hovering just before our eyes.

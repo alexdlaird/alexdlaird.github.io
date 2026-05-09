@@ -1,6 +1,9 @@
 ---
 title: "pyngrok - a Python wrapper for ngrok"
 date: 2019-01-21
+slug: "pyngrok-a-python-wrapper-for-ngrok"
+aliases:
+  - /2019/01/pyngrok---a-python-wrapper-for-ngrok/
 tags: 
   - "education"
   - "localhost"
