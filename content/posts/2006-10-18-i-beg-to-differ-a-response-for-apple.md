@@ -1,6 +1,9 @@
 ---
 title: "I Beg to Differ - A Response for Apple"
 date: 2006-10-18
+slug: "i-beg-to-differ-a-response-for-apple"
+aliases:
+  - /2006/10/i-beg-to-differ---a-response-for-apple/
 tags: 
   - "apple"
 ---

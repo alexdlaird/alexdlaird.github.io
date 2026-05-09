@@ -1,11 +1,16 @@
 ---
 title: "Boeing AH-64 Apache"
 date: 2011-06-05
+aliases:
+  - /2011/06/boeing-ah-64-apache/apache_2/
+  - /2011/06/boeing-ah-64-apache/apache_3/
+  - /2011/06/boeing-ah-64-apache/apache_4/
+  - /2011/06/boeing-ah-64-apache/apache_5/
+  - /2011/06/boeing-ah-64-apache/apache_6/
+  - /2011/06/boeing-ah-64-apache/d-0051/
+  - /2011/06/boeing-ah-64-apache/iraqi-freedom-iv/
 tags: 
-  - "quad"
-  - "city"
-  - "air"
-  - "show"
+  - "quad-city-air-show"
 ---
 
 Has there ever been a moment in your life in which you've seen something and your thought has been, "This is it ... I'm about to die."  Perhaps you've been out hiking and you've seen some form of wildlife.  Maybe it's been when you stood on the edge of a massive cliff (I felt this way when I went to the Grand Canyon).  If you're like Jess, it's probably been when you've seen a spider.

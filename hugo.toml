@@ -10,6 +10,8 @@ googleAnalytics = "G-3M6BSPTNBS"
 [permalinks]
   [permalinks.page]
     posts = '/:year/:month/:slug/'
+  [permalinks.term]
+    tags = '/tag/:slug/'
 
 [taxonomies]
   tag = "tags"

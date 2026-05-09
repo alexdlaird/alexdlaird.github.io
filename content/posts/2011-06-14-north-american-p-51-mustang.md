@@ -1,11 +1,16 @@
 ---
 title: "North American P-51 Mustang"
 date: 2011-06-14
+aliases:
+  - /2011/06/north-american-p-51-mustang/autosave-file-vom-d-lab23-der-agfaphoto-gmbh/
+  - /2011/06/north-american-p-51-mustang/dsc03279-cropped/
+  - /2011/06/north-american-p-51-mustang/dsc03279/
+  - /2011/06/north-american-p-51-mustang/dsc03324/
+  - /2011/06/north-american-p-51-mustang/jones-beach-airshow-over-ny/
+  - /2011/06/north-american-p-51-mustang/nellis-air-force-base-aviation-air-show-2007/
+  - /2011/06/north-american-p-51-mustang/p-51-head-on/
 tags: 
-  - "quad"
-  - "city"
-  - "air"
-  - "show"
+  - "quad-city-air-show"
 ---
 
 One-hundred-seventeen days.  Almost four months.  What could you build in one-hundred-seventeen days?  Perhaps I should rephrase that: what could you build in one-hundred-seventeen days _on a government contract_? Certainly not an entire aircraft, from the ground up, from scratch-paper to rolling it out of the hanger?

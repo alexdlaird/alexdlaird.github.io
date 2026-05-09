@@ -1,6 +1,9 @@
 ---
 title: "java-ngrok - a Java wrapper for ngrok"
 date: 2021-08-27
+slug: "java-ngrok-a-java-wrapper-for-ngrok"
+aliases:
+  - /2021/08/java-ngrok---a-java-wrapper-for-ngrok/
 tags: 
   - "education"
   - "localhost"
