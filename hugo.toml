@@ -2,6 +2,8 @@ baseURL = "https://www.alexlaird.com/"
 languageCode = "en-us"
 title = "Alex Laird"
 theme = "PaperMod"
+googleAnalytics = "G-3M6BSPTNBS"
+
 [pagination]
   pagerSize = 10
 
