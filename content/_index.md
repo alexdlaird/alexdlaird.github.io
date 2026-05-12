@@ -1,5 +1,6 @@
 ---
-title: "Home"
+title: "Alex Laird"
+description: "Staff Engineer @ Twilio · Open Source Maintainer"
 ---
 
 ## Featured Projects
