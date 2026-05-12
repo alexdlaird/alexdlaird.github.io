@@ -3,6 +3,7 @@ languageCode = "en-US"
 title = "Alex Laird"
 theme = "PaperMod"
 googleAnalytics = "G-3M6BSPTNBS"
+enableGitInfo = true
 
 [pagination]
   pagerSize = 10
@@ -19,6 +20,7 @@ googleAnalytics = "G-3M6BSPTNBS"
 [params]
   description = "Staff Engineer @ Twilio · Open Source Maintainer"
   author = "Alex Laird"
+  images = ["https://avatars.githubusercontent.com/u/1660326?v=4"]
   showReadingTime = true
   showPostNavLinks = true
   showBreadCrumbs = true
@@ -27,6 +29,14 @@ googleAnalytics = "G-3M6BSPTNBS"
 
   [params.assets]
     favicon = "/favicon.png"
+
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://github.com/alexdlaird",
+      "https://www.linkedin.com/in/alexdlaird/",
+      "https://www.patreon.com/alexdlaird/membership",
+    ]
 
   [params.analytics.google]
     SiteVerificationTag = "bVteyR4ELhNItmLQUA-l1R1XvJVTn2KdXohwVsOpSVc"

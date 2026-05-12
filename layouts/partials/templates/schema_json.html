@@ -1,15 +1,17 @@
 {{ if .IsHome }}
+{{- $publisherType := (site.Params.schema.publisherType | default "Organization") | title -}}
+{{- $publisherImage := site.Params.profileMode.imageUrl | default (site.Params.assets.favicon | default "favicon.ico" | absURL) -}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+  "@type": "{{ $publisherType }}",
   "name": {{ site.Title }},
   "url": {{ site.Home.Permalink }},
   "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
-  {{- if (eq site.Params.schema.publisherType "Person") }}
-  "image": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
+  {{- if (eq $publisherType "Person") }}
+  "image": {{ $publisherImage }},
   {{- else }}
-  "logo": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
+  "logo": {{ $publisherImage }},
   {{- end }}
   "sameAs": [
     {{- if site.Params.schema.sameAs }}
@@ -100,13 +102,22 @@
     "@type": "WebPage",
     "@id": {{ .Permalink | safeHTML }}
   },
+  {{- $publisherType := (site.Params.schema.publisherType | default "Organization") | title }}
+  {{- $publisherImage := site.Params.profileMode.imageUrl | default (site.Params.assets.favicon | default "favicon.ico" | absURL) }}
   "publisher": {
-    "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+    "@type": "{{ $publisherType }}",
     "name": {{ site.Title }},
+    {{- if (eq $publisherType "Person") }}
+    "image": {
+      "@type": "ImageObject",
+      "url": {{ $publisherImage }}
+    }
+    {{- else }}
     "logo": {
       "@type": "ImageObject",
-      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+      "url": {{ $publisherImage }}
     }
+    {{- end }}
   }
 }
 </script>
