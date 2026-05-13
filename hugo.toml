@@ -18,7 +18,7 @@ enableGitInfo = true
   tag = "tags"
 
 [params]
-  description = "Staff Engineer @ Twilio · Open Source Maintainer"
+  description = "Website of Alex Laird - Staff Engineer at Twilio, open source maintainer, builder of developer tools like pyngrok and amazon-orders, creator of Helium — Student Planner. Projects and writings herein."
   author = "Alex Laird"
   images = ["https://avatars.githubusercontent.com/u/1660326?v=4"]
   showReadingTime = true
