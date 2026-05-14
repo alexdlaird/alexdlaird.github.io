@@ -16,13 +16,13 @@ Rush pointed to the popular free email providers (Yahoo, Google, and others) to 
 
 I was intrigued.
 
-I found that Rush was not the only conservative advertising this servic. Fox, CBS, and many others also endorsed it, though for slightly different political reasons; they primarily portrayed it as an email alternative "for conservatives". They said that, unlike these free services, Reagan.com email would not have you unknowingly contributing to "the liberals". These are hard-and-fast definitions, people.
+I found that Rush was not the only conservative advertising this service. Fox, CBS, and many others also endorsed it, though for slightly different political reasons; they primarily portrayed it as an email alternative "for conservatives". They said that, unlike these free services, Reagan.com email would not have you unknowingly contributing to "the liberals". These are hard-and-fast definitions, people.
 
 Michael Reagan, founder of Reagan.com and son of, you guessed it, Ronald Reagan, [has this](http://www.cbsnews.com/8301-503544_162-20012197-503544.html) to say about his service:
 
 > [...] every time you use your email from companies like Google, AOL, Yahoo, Hotmail, Apple and others, you are helping the liberals. These companies are, and will continue to be, huge supporters financially and with technology of those that are hurting our country.
 
-Because apparently liberals are the only ones that are interested in using technology to advance our country. And apparently "the liberals" are the _only_ people benefiting from these huge corporations. Obviously, they would never help "the conservatives". Regardless, this is a relatively empty claim as its never actually substantiated.
+Because apparently liberals are the only ones that are interested in using technology to advance our country. And apparently "the liberals" are the _only_ people benefiting from these huge corporations. Obviously, they would never help "the conservatives". Regardless, this is a relatively empty claim as it's never actually substantiated.
 
 Politics aside, allow me to explain to you from a technical perspective why the commercials endorsing Reagan.com and even the information _on_ Reagan.com is largely misleading.
 

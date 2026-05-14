@@ -31,7 +31,7 @@ Here's what you need to setup in AWS to ensure your account is ready to receive 
 - Create an EC2 Security Group that has port 80 opened
 - [Create an S3 bucket](http://aws.amazon.com/s3/)
 - Generate an AWS Access Key and Secret Access Key
-- (Optional) Create an elastic IP and associate it with the EC2 instace you created
+- (Optional) Create an elastic IP and associate it with the EC2 instance you created
 - (Optional) Create a DNS entry of your choosing to point to the elastic IP (AWS will generate their own DNS entry that you can also use, if you don't have your own domain name)
 
 # Fork the Code

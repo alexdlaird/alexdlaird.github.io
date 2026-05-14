@@ -15,7 +15,7 @@ As such, after years of my brother and I writing our own useful programs, Andrew
 
 This was an idea through most of 2008, began development in 2009, and became what it is now sometime in 2010.  Obviously, we could have put effort into making these graphics cutting edge ... but that would kind of defeat the purpose.  We intentionally made this game for nostalgic purposes.
 
-The music is pure genius, I must say.  Any likenesses you may here throughout the game to other old-timey games you've played is purely coincidental.  Don't sue us.
+The music is pure genius, I must say.  Any likenesses you may hear throughout the game to other old-timey games you've played is purely coincidental.  Don't sue us.
 
 ## Alright, I Follow.  So Who's Ernie?
 
@@ -25,7 +25,7 @@ When Andrew started developing The-Yet-To-Be-Named-Old-School-Game, he needed so
 
 ## Uh, I Didn't Play Old-Timey Games.  What Do I Do?
 
-Use the arrow keys to move the Ernie character around.  When you walk up to an object you'd like to do something with, _type_ the action.  Then press enter.  Yes, type.  For instance, if you walk up to a shiny object on the ground, try typing the command "get key" and pressing enter.  Don't know if it's a keep?  Try the "look" command to see what's around you.  Be specific.  If you see a person, type "look person".
+Use the arrow keys to move the Ernie character around.  When you walk up to an object you'd like to do something with, _type_ the action.  Then press enter.  Yes, type.  For instance, if you walk up to a shiny object on the ground, try typing the command "get key" and pressing enter.  Don't know if it's a key?  Try the "look" command to see what's around you.  Be specific.  If you see a person, type "look person".
 
 **The key to these old game typing commands is _verb noun_.**  So to _talk_ (verb) to a_person_ (noun), you'd type "talk person".  Don't know the name of the person?  Type "look" and maybe the description will tell you the name of the person in the screen.
 
@@ -35,7 +35,7 @@ Oh, and as I said before, this was intentionally made as a DOS-style game.  That
 
 ## The Nerd-Speech in This Post is Minimal.  Anything to Add?
 
-Yah.  The game can also be run on Mac, if you're interested, but the build isn't as stable, and, frankly, I didn't feel like dealing with getting it to that state.  Deal with it.  If you'd _really_ like to see the game run on Mac, you're more than welcome to brave the build yourself.  You can find it on [Andrew's code repository here](https://github.com/andrewjlaird/erniesadventure).  Don't say I didn't warn use.  Seriously.  Not a pretty build.  And even if you do get it to build, I've only gotten it to run a few times, and it does crash from time to time.
+Yah.  The game can also be run on Mac, if you're interested, but the build isn't as stable, and, frankly, I didn't feel like dealing with getting it to that state.  Deal with it.  If you'd _really_ like to see the game run on Mac, you're more than welcome to brave the build yourself.  You can find it on [Andrew's code repository here](https://github.com/andrewjlaird/erniesadventure).  Don't say I didn't warn you.  Seriously.  Not a pretty build.  And even if you do get it to build, I've only gotten it to run a few times, and it does crash from time to time.
 
 And speaking of crashing, it may crash a bit on Windows Vista.  I don't think we got all of the Vista bugs worked out because, well ... it's Vista.  Not worth our time.  But it worked consistently on Windows XP and Windows 7.  Anyway, you know, we offer this game with absolutely no guarantee or warranty.  And it should work just fine for you.  I promise.
 

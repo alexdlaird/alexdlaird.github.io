@@ -10,7 +10,7 @@ tags:
 
 ### Author's Note
 
-_To prevent uneasiness, I should disclose that the attached sample spreadsheet (link provided at the bottom of the post) contains fictional data as an example/starting point for you to understand how the spreadsheet works so you can more easily use it yourself.  These are not my (nor anyone elses) loans or account numbers.  Do not worry :)!_
+_To prevent uneasiness, I should disclose that the attached sample spreadsheet (link provided at the bottom of the post) contains fictional data as an example/starting point for you to understand how the spreadsheet works so you can more easily use it yourself.  These are not my (nor anyone else's) loans or account numbers.  Do not worry :)!_
 
 </div>
 
@@ -38,7 +38,7 @@ _For your convenience, especially if you are a soon-to-be or current college stu
 - **Interest Subsidy:**  Subsidization is a type of assistance you may get from the lender or another financial institution (or the government) to help you with the loan or its interest.  For example, if your loan payments or interest are deferred for six months, your loan is "subsidized".  If your loan does not have any sort of assistance with it, it is "unsubsidized".  An unsubsidized loan begins accruing immediately.  This is a required field.
 - **Interest Rate:**  The percentage rate at which your loan gains interest annually.  This is a required field.
 - **Minimum Payment:** Most loans require a minimum monthly payment. The payment plan will deduct minimum payments each month so your payment plan is accurately generated. This is a required field—just input $0 if your loan does not require a minimum payment.
-- **Due Date:**  The date on which payments are expected to begin for this loan.  In the same of a subsidized loan, this should be the date your interest will start accruing.  This field is required.
+- **Due Date:**  The date on which payments are expected to begin for this loan.  In the case of a subsidized loan, this should be the date your interest will start accruing.  This field is required.
 - **Initial Balance:** The initial amount that the loan was worth.  This field is required.
 - **Current Balance:** The current amount that the loan is worth.  This will be the same as the initial balance if you haven't already started paying toward this loan.  This field is required.
 

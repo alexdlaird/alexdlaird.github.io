@@ -13,7 +13,7 @@ tags:
 
 “Talk is cheap.” That’s what we say. And, to a degree, it’s true. But bear this in mind: all action is precipitated by talk. People will often try to silence your voice expressly for that reason — because they know it will lead to action.
 
-In the age where hating on millenials is trendy, dismissing the value of social media is equally in vogue — there’s a correlation there, but that’s another post for another time. But like any form of communication, it has its pros and cons, and you get out of it what you put into it.
+In the age where hating on millennials is trendy, dismissing the value of social media is equally in vogue — there’s a correlation there, but that’s another post for another time. But like any form of communication, it has its pros and cons, and you get out of it what you put into it.
 
 This is what we put into it. A group of like minded and motivated parents from all across the country banded together using social media to encourage, educate, and challenge each other (and our peers) ideologically and politically while raising the level of discourse. You’ve seen us posting since well before the election, and you’ve seen us continue to join our collective voices as concerned citizens and parents since.
 

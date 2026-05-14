@@ -248,7 +248,7 @@ checkLoggedIn (Page::INDEX);
 
 # The Common Exit Issue
 
-Take special note that as soon as it has been determined that _checkLoggedIn()_ in **functions.php** succeeded or failed (i.e. following a header call to redirect), exit has been called. This is crucial if your secured page makes ready use of your session or cookie variables, because it tells PHP to cease construction of the page immediately. It is a common mistake to not call exit after a header redirect, which is not necessarily insecure, but it is poor practice. If you fail to call exit immediately, the remainder of the page will still be evaluated by PHP (though the variables may not have been initialized), and error reports may occur. Not data will be displayed to the user, but you neglecting to call exit may fill up your PHP error logs.
+Take special note that as soon as it has been determined that _checkLoggedIn()_ in **functions.php** succeeded or failed (i.e. following a header call to redirect), exit has been called. This is crucial if your secured page makes ready use of your session or cookie variables, because it tells PHP to cease construction of the page immediately. It is a common mistake to not call exit after a header redirect, which is not necessarily insecure, but it is poor practice. If you fail to call exit immediately, the remainder of the page will still be evaluated by PHP (though the variables may not have been initialized), and error reports may occur. No data will be displayed to the user, but you neglecting to call exit may fill up your PHP error logs.
 
 # The Payoff
 

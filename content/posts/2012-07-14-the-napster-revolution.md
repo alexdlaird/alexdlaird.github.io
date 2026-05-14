@@ -35,7 +35,7 @@ His idea was simple enough. All he needed to do was combine three existing proto
 
 Fanning had already implemented two of the three features in the MP3 search program that he wrote during his Freshman year of college. The third feature, computer-to-computer connectivity, was the innovation that led his first program to become Napster.
 
-The issue with Fanning's first program was the same issue independent MP3 websites had: it relied on the servers of third-party websites that were frequently taken down for a number of reasons. Using computer-to-computer connectivity, Napster utilized each user's computer as a server on the Napster network. Rather than searching the server of a website, Napster searched the computer's of user's that were currently logged onto the network.
+The issue with Fanning's first program was the same issue independent MP3 websites had: it relied on the servers of third-party websites that were frequently taken down for a number of reasons. Using computer-to-computer connectivity, Napster utilized each user's computer as a server on the Napster network. Rather than searching the server of a website, Napster searched the computers of users that were currently logged onto the network.
 
 There still was a centralized server for Napster—which is what eventually led to the service's downfall—that indexed MP3 files and their locations. This allowed the Napster to still provide a very rapid search functionality.
 
@@ -45,7 +45,7 @@ Amazingly, in its two years of operation, the centralized server for Napster nev
 
 # Sharing and Searching
 
-Napster did not blindly search a user's entire computer for MP3 files—Fanning was originally a hacker, but he still understood privacy. Nor was Napster able to search a client's computer if the Napster client was not running. So how did user's music library become part of the Napster network?
+Napster did not blindly search a user's entire computer for MP3 files—Fanning was originally a hacker, but he still understood privacy. Nor was Napster able to search a client's computer if the Napster client was not running. So how did a user's music library become part of the Napster network?
 
 1. The user would need to install the Napster client on their computer
 2. The user would need to share a specific folder on their computer
@@ -53,13 +53,13 @@ Napster did not blindly search a user's entire computer for MP3 files—Fanning 
 
 Assuming these three criteria were met, any MP3 files within the user's shared folder would be indexed on the centralized Napster server and available for download by other logged on users.
 
-Any other user using the Napster client could then browse for songs by artist, song, album, etc. The search would be indexed through the centralized Napster server, and results returned from the index would be shown to the user. When a user selected a song for download, the Napster server would return the IP address of the user's computer that contained the desired song, connect the two user's computers, and transfer the file.
+Any other user using the Napster client could then browse for songs by artist, song, album, etc. The search would be indexed through the centralized Napster server, and results returned from the index would be shown to the user. When a user selected a song for download, the Napster server would return the IP address of the user's computer that contained the desired song, connect the two users' computers, and transfer the file.
 
  
 
 # The Rise ...
 
-After Fanning's sixty-hour programming marathon, Napster was born. It was June of 1999, and Fanning and Parker released the beta of Napster to thirty of their friends. It was meant to be a small group for testing. But obviously, given the described architecture above, the more computers that user Napster, the larger the Napster library would be. Fanning and Parker's friends saw this potential, and less than seven days later, the purposely small test group had spread the download from thirty to 15,000 users.
+After Fanning's sixty-hour programming marathon, Napster was born. It was June of 1999, and Fanning and Parker released the beta of Napster to thirty of their friends. It was meant to be a small group for testing. But obviously, given the described architecture above, the more computers that used Napster, the larger the Napster library would be. Fanning and Parker's friends saw this potential, and less than seven days later, the purposely small test group had spread the download from thirty to 15,000 users.
 
 Its users unaware of the legal implications, Napster went viral. Less than a year from its release, Napster was the fastest growing website in history and had acquired over 25 million users. This growth rate was unprecedented and was a surprise to everyone except Fanning, Parker ... and anyone that used the service. Napster was wildly popular on the internet for two blissful years. Before Napster's user base started to decline (due to the hot legal attention it was receiving), the service peaked at 80 million registered users.
 
@@ -89,7 +89,7 @@ The end of the Napster service did not end the Napster idea. And even though Ber
 
 To AOL's credit, they did try to stop Gnutella from growing up and living a long and healthy life. The day after the Gnutella source code was publicly released on Nullsoft's website, AOL demanded the project be shut down. But, of course, it had already been downloaded thousands of times, and it was already being redistributed on countless sites. So AOL's move to pull it off their servers was said to be similar to closing the barn door after you let the horse out.
 
-The Gnutella network, unlike Napster, was not a client. It was both a protocol and an idea. The downfall of the old MP3 sites was that both their index server and their libraries were centralized servers owned by the sites. The downfall of Napster was that, though their libraries were on their user's computers, they still had a centralized server that indexed all MP3 files and the computers on which they were stored. The Gnutella network removed all centralized server and instead used each user's computer as a server and also a relay. The relay was what acted in place of a centralized index server. And since the Gnutella protocol was open source, anyone could make a client that connected to it. And there are ... many.
+The Gnutella network, unlike Napster, was not a client. It was both a protocol and an idea. The downfall of the old MP3 sites was that both their index server and their libraries were centralized servers owned by the sites. The downfall of Napster was that, though their libraries were on their user's computers, they still had a centralized server that indexed all MP3 files and the computers on which they were stored. The Gnutella network removed all centralized servers and instead used each user's computer as a server and also a relay. The relay was what acted in place of a centralized index server. And since the Gnutella protocol was open source, anyone could make a client that connected to it. And there are ... many.
 
 When you logged on to the Gnutella protocol using a Gnutella client, for instance LimeWire or Morpheus, the protocol on your computer would ping several other computers that it thought might be logged on. Each of those computers also had a list of computers they knew were logged on, so they would return that list to your Gnutella client. Once Gnutella found other logged on users, it would remember those addresses the next time you started the service—this way if one of the servers did go down for any reason (even copyright violation), it still had other alternatives. When you searched for a file on Gnutella, it would send the request down the chain of clients you were attached to, and clients attached to those clients, until it found a match.
 

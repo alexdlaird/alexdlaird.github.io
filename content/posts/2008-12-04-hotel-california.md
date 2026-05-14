@@ -37,7 +37,7 @@ Some still insist that the Hotel California is a nickname for the [Camarillo Sta
 
 Still, people insist that the Hotel California must be a real building somewhere, so they conjecture that perhaps it is a hospital somewhere. The rumor further claims that the song is actually about cancer.
 
-“My head grew heavy and my site grew dim.” It could be a reference to the pains of the cancer that is evidently killing the body. “There she stood in the doorway” is alleged to be a reference to a nurse, and “And she showed me the way / There were voices down the corridor” is the nurse leading him down the hallways of the hospital, other cancer patients calling out to the narrator as he walks by. “They stab it with their Steely knives / But they just can’t kill the beast” could be a reference to repeated attempts to kill the cancer.
+“My head grew heavy and my sight grew dim.” It could be a reference to the pains of the cancer that is evidently killing the body. “There she stood in the doorway” is alleged to be a reference to a nurse, and “And she showed me the way / There were voices down the corridor” is the nurse leading him down the hallways of the hospital, other cancer patients calling out to the narrator as he walks by. “They stab it with their Steely knives / But they just can’t kill the beast” could be a reference to repeated attempts to kill the cancer.
 
 The song could be a [metaphor for cancer](http://en.wikipedia.org/wiki/Hotel_California_\(song\) "Hotel California on Wikipedia"), if you chose to interpret that way, but that wasn’t the intention when it was written.
 
@@ -45,7 +45,7 @@ The song could be a [metaphor for cancer](http://en.wikipedia.org/wiki/Hotel_Cal
 
 The line “They stab it with their Steely knives / But they just can’t kill the beast” is a reference to [Steely Dan](http://en.wikipedia.org/wiki/Steely_dan "Steely Dan on Wikipedia"), an American rock band that had a healthy competition with the Eagles around the time _Hotel California_ came out.
 
-[The Eagles were apparently impressed](http://www.feldermusic.com/quotes.html "The Eagles Steely Dan Quotes") by the fact that Steely Dan didn’t require any rhyme or reason to the meaning in the lyrics of their song. The Eagles decided it would be pretty sweet to mention Steely Dan in their song, even though the rest of the song has absolutely nothing to do with them. Steely Dan had previously mention the Eagles in their song [Everything You Did](http://www.steelydan.com/lyrroyalscam.html#track8 "Everything You Did lyrics") with the line “Turn up the Eagles the neighbors are listening” in 1976.
+[The Eagles were apparently impressed](http://www.feldermusic.com/quotes.html "The Eagles Steely Dan Quotes") by the fact that Steely Dan didn’t require any rhyme or reason to the meaning in the lyrics of their song. The Eagles decided it would be pretty sweet to mention Steely Dan in their song, even though the rest of the song has absolutely nothing to do with them. Steely Dan had previously mentioned the Eagles in their song [Everything You Did](http://www.steelydan.com/lyrroyalscam.html#track8 "Everything You Did lyrics") with the line “Turn up the Eagles the neighbors are listening” in 1976.
 
 ## It’s About Cannibalism
 
@@ -63,7 +63,7 @@ The artwork for the album was actually [shot at the Beverly Hills Hotel](http://
 
 Further claims state that the Hotel California is a reference to a hotel on California St. in San Francisco which the Church of Satan purchased and converted into their headquarters. The building in question was called The Black House and was actually an old Victorian mansion, not a hotel. It was the headquarters for the Church of Satan used by Anton LaVey in 1966 until his death in 1997. The Satanic Church lost custody of the house after LaVey’s death, and it was torn down in 2001.
 
-It is also rumored that the Eagles were members of the Church of Satan and that they were disciples of LeVay. While a [very unreliable source](http://www.av1611.org/rock.html "Rock Music: The Devil's Advocate") claims that the Waco Tribune-Herald interview Larry Salter, the Eagle’s manager, and he admitted that the Eagle’s were involved with the Church of Satan, the interview was apparently back in 1982 and the original can’t be found ...
+It is also rumored that the Eagles were members of the Church of Satan and that they were disciples of LeVay. While a [very unreliable source](http://www.av1611.org/rock.html "Rock Music: The Devil's Advocate") claims that the Waco Tribune-Herald interviewed Larry Salter, the Eagle’s manager, and he admitted that the Eagle’s were involved with the Church of Satan, the interview was apparently back in 1982 and the original can’t be found ...
 
 Then there’s that whole bit about playing the song backward to hear a satanic message. That’s a bit of a stretch. Especially considering [sites like that](http://www.jesus-is-savior.com/Evils%20in%20America/CCM/promoting_satan.htm "Promoting Satan") try to say the same thing about Metallica, Megadeath, and Kiss songs and, let’s be honest, you don’t need to play those songs backward to hear a Satanic message. Anyway, if you listen to the entire song backward yourself, you’ll find that it’s quite bogus.
 
@@ -77,7 +77,7 @@ This theory has the most overwhelming amount of evidence straight out of the son
 
 Probably the most explicit reference in the song is that of Colitas, a Spanish term meaning “little tails,” which could be a reference to the Cannabis plant (marijuana). The rest of the imagery in the song is a very strong implication that the narrator may not be entirely sane (or lucid) while he’s telling us his tale. A shimmering light and a vision of a hotel? Voices echoing down the hallways? Mirrors on the ceiling (seeing many things from many angles, which would happen when you hallucinate)?
 
-It’s usually said that the song is warning _against_ the use of drugs, given it’s generally negative view towards the subject, especially considering the narrators regret that he can’t seem to _get out_ of the lifestyle he has become trapped in.
+It’s usually said that the song is warning _against_ the use of drugs, given its generally negative view towards the subject, especially considering the narrator’s regret that he can’t seem to _get out_ of the lifestyle he has become trapped in.
 
 ## So What’s it _Really_ About?
 
@@ -85,7 +85,7 @@ And now we come to the true meaning of this song, which is only slightly disappo
 
 Well, Henley and Frey claim that Colitas is a desert flower that smells good. Well, it may very well be a desert flower, but it’s still most likely slang for Cannabis. In their defense, I did read somewhere that a Mexican translated the words “little bud” to “Colitas” for them, neglecting to mention the marijuana reference, so they may not have completely understood what they were saying.
 
-That being said, they explained in [an interview in 1995](http://www.snopes.com/music/songs/hotel.asp "Hotel California on Snopes") that the song is about the dangers of hedonism and greed, specifically as it applies to the American Dream and their own achieving fame and fortune in the worlds eyes. They wanted to warn not only California of this, but the entire nation. Unfortunately, due to a poor choice in the title of both the song and the album, it’s most commonly only associated with the Californian mindset.
+That being said, they explained in [an interview in 1995](http://www.snopes.com/music/songs/hotel.asp "Hotel California on Snopes") that the song is about the dangers of hedonism and greed, specifically as it applies to the American Dream and their own achieving fame and fortune in the world’s eyes. They wanted to warn not only California of this, but the entire nation. Unfortunately, due to a poor choice in the title of both the song and the album, it’s most commonly only associated with the Californian mindset.
 
 It’s not a reference to any type of building, it’s not about cannibalism, and it’s not about the Church of Satan. The Steely Dan reference was, in fact, true. The song was the Eagles’ look back at their own lives, realizing how they had become caught up in the famous lifestyle (“Her mind is Tiffany-twisted / She got a Mercedes-Benz”), a lifestyle which has trapped them and isn’t turning out to be everything they had wanted (“We are all just prisoners here / Of our own device,” “You can check out anytime you like / But you can never leave”).
 

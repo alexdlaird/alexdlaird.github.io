@@ -20,7 +20,7 @@ However.
 
 Upon further research, and with an Excel spreadsheet that was the brain child of my brother, I have found these assumptions to be untrue.  It seems common sense—and it seems reason would suggest that pulling low interest investments out and putting the money toward high interest loans would save you money in the long run, but the long-term ramifications of this were actually quite startling.
 
-The attached spreadsheet, I believe, will speak for itself.  But the understand you at least need to have going into it is knowing why the these posts suggesting pulling from a mutual fund is a good idea; they're missing the concept of exponential growth.
+The attached spreadsheet, I believe, will speak for itself.  But the understanding you at least need to have going into it is knowing why these posts suggesting pulling from a mutual fund is a good idea; they're missing the concept of exponential growth.
 
 In the short-term, you believe that pulling a few thousand out of mutual funds now won't matter, because you'll quickly pay that few thousand back, with interest.  But you're missing how fast mutual funds start to grow exponentially each subsequent year, and the more you pull out, the more difficult (or even impossible) it will be for you to catch up with payments over the long-term.
 
