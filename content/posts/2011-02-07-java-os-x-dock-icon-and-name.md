@@ -9,9 +9,9 @@ tags:
 
 For as long as I've been developing in Java, its lack of native support for OS X has always bothered me. This is more than likely an issue with Apple's proprietary interface rather than Java, but, for the sake of being loyal to my Master, we'll pretend the fault is on Java.
 
-I don't want the default Java icon--I want my applications icon to appear in the dock! And why does setTitle not actually change the name of my program in the menu bar? It still remains the name of the Java package that the main () method is contained within. I don't want people to know the package layout of my software.
+I don't want the default Java icon--I want my application's icon to appear in the dock! And why does setTitle not actually change the name of my program in the menu bar? It still remains the name of the Java package that the main () method is contained within. I don't want people to know the package layout of my software.
 
-Of course, Apple's "solution" to this is contained within Xcode ... Just make an .app wrapper for your application! Native dock icon, native dock name. But then that's just the problem--the application now appears to be native and is no longer portable. There has to a better solution ...
+Of course, Apple's "solution" to this is contained within Xcode ... Just make an .app wrapper for your application! Native dock icon, native dock name. But then that's just the problem--the application now appears to be native and is no longer portable. There has to be a better solution ...
 
 Well, there isn't. There's no real _solution_ to this problem, but I can offer you a slight hack that works for the dock icon and name, at least. Unfortunately, it only works for the dock icon, and the actual application icon in Finder will still remain the Java default.
 
@@ -27,7 +27,7 @@ Never fear. Apple has been kind enough to give us stubs that can still be called
 
 [Download AppleJavaExtensions](http://developer.apple.com/library/mac/#samplecode/AppleJavaExtensions/Introduction/Intro.html "Download the AppleJavaExtensions")
 
-Okay, so what about the OS X dock name then? Sadly, there's no good solution to that. Here's the best work-around that I've found--put your main () in a class by itself in your applications default package. I know, the default package is evil ... That's why the first and only thing you'll do is call JFrame.setVisible () from within this function.
+Okay, so what about the OS X dock name then? Sadly, there's no good solution to that. Here's the best work-around that I've found--put your main () in a class by itself in your application's default package. I know, the default package is evil ... That's why the first and only thing you'll do is call JFrame.setVisible () from within this function.
 
 This does mean that, as far as the menu bar is concerned, your application title cannot have any spaces. It will be the exact name of the class your main function is in, so, for instance, Get Organized shows up as GetOrganized. My GetOrganized class immediately launches MainFrame from deeper within the package system, but the average user no longer has to see the package layout.
 

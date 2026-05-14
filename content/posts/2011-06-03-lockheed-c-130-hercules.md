@@ -21,7 +21,7 @@ This year’s edition of the Quad City Air Show is just around the corner—June
 
 In the post-World War II era, The Korean War shed light on the fact that the current military transport aircraft were simply insufficient; their advancements simply hadn’t kept up with the aircraft and crew they were transporting.  So in 1951, the United States Air Force put out a new General Operation Requirement for leading manufacturers to bid on.
 
-The aircraft needed to be able to host any of the following: 92 passengers, 72 combat troops, or 64 paratroopers.  It also needed five crew members to be operable.  It had a requirement to be able house cargo in excess of 400 sq. ft.  And it would be the first transport aircraft to host a rear-entry ramp—a ramp big enough to fit even the biggest military vehicles—a ramp that could be used for air drops.
+The aircraft needed to be able to host any of the following: 92 passengers, 72 combat troops, or 64 paratroopers.  It also needed five crew members to be operable.  It had a requirement to be able to house cargo in excess of 400 sq. ft.  And it would be the first transport aircraft to host a rear-entry ramp—a ramp big enough to fit even the biggest military vehicles—a ramp that could be used for air drops.
 
 In the running for the bid were the usual big-name airliners: Boeing, Douglas, Fairchild, Lockheed, and Northrop, just to name a few.  Lockheed won the design bid and, ultimately, the contract to develop the plane, with their 130-page proposal for a quad-turboprop beast designed specifically for heavy cargo, long-range transportation, short-strip takeoffs from unprepared runways, and the amazing ability to still maintain altitude with one engine down.
 
@@ -39,7 +39,7 @@ The original C-130, as there have been many editions of the aircraft since then,
 
 The maximum possible weight of the C-130 is 42,000 pounds.  An average payload during its lifetime is 36,000 pounds.  The cargo of a C-130 may simply consist of palettes full of military or civilian supplies, or it may be carrying vehicles.  For example, its cargo bay could carry up to three Humvees, or two M113 tanks (it could probably carry more space-wise, but each of these tanks weighs in at about 12 tons).
 
-Though the standard C-130 Hercules was bid primarily as a non-combatant cargo aircraft, it has been practically used for offensive attacks by means of its payload ramp.  For instance, a low-altitude flyover with the payload ramp let out can easily lend to the dropping of an M551, a “light” tank (weighing in at 15 tons) designed with an air-drop in mind.  The Hercules has also been used on some occasions to drop “daisy clutter” bombs from its easily accessible payload.
+Though the standard C-130 Hercules was bid primarily as a non-combatant cargo aircraft, it has been practically used for offensive attacks by means of its payload ramp.  For instance, a low-altitude flyover with the payload ramp let out can easily lend to the dropping of an M551, a “light” tank (weighing in at 15 tons) designed with an air-drop in mind.  The Hercules has also been used on some occasions to drop “daisy cutter” bombs from its easily accessible payload.
 
 [![](/assets/c130_5.jpeg "c130_5")](/assets/c130_5.jpeg)
 
@@ -49,7 +49,7 @@ Though the standard C-130 Hercules was bid primarily as a non-combatant cargo ai
 
 The C-130 can be the host of 21 tons of cargo.  It can drop a 15-ton tank directly out of its payload.  It can hold enough fuel for not only itself, but also for an aircraft it may be meeting to refuel.  And under this stress, how does the Hercules itself fair?  Quite well, actually.
 
-With an average payload weight, the Hercules can still travel just over 1,200 nautical miles.  That’s nearly halfway across the United States.  On the one hand, that may not seem very far considering it’s a cargo aircraft.  On the other hand, it can make that trip in only a little over three hours, and it does it while carrying 21 tons of cargo, not including its own weight, which is itself nearly 38 tons.  Think about that.  That means that, at takeoff, the plain is lifting 77 tons, or 155,000 pounds, off the ground.  To put that into perspective, the United States Department of Transportation does not allow a semi to weigh more than 40 tons.  And the C-130 is doing nearly twice that.  In the air.
+With an average payload weight, the Hercules can still travel just over 1,200 nautical miles.  That’s nearly halfway across the United States.  On the one hand, that may not seem very far considering it’s a cargo aircraft.  On the other hand, it can make that trip in only a little over three hours, and it does it while carrying 21 tons of cargo, not including its own weight, which is itself nearly 38 tons.  Think about that.  That means that, at takeoff, the plane is lifting 77 tons, or 155,000 pounds, off the ground.  To put that into perspective, the United States Department of Transportation does not allow a semi to weigh more than 40 tons.  And the C-130 is doing nearly twice that.  In the air.
 
 The maximum speed of a fully loaded C-130 is 345-417mph, depending on the model.  The aircraft has a 132 ft. wingspan, is 97 feet long, and stands nearly four stories (38 feet) high.  The plane’s ceiling is safely at 28,000 feet, and the aircraft requires 3,290 feet of runway to takeoff and an absolute minimum of 1,500 feet to land.  Carrying an average load, the plane can slow to the surprising speed of 115mph before stalling.
 
@@ -71,7 +71,7 @@ Ever been to an air show?  More than one?  Then you’ve probably seen the Blue 
 
 The Lockheed C-130 Hercules is also seen in the movies _The Green Berets_ (John Wayne fans?) and The _Perfect Storm_.  In fact, the footage shown in _The Perfect Storm_ is actually real life footage of National Guard HC-130P refueling a distressed HH-60 helicopter.  And, of course, the plane that takes out that ugly scorpion at the beginning of _Transformers_ was an AC-130, the combatant relative to the C-130.
 
-If you live near an Air Force base, you’ve likely seen one of these freighters lifting into the sky.  They’re easily identified by their immense presence, four five/six-blade propellers, elongated underbelly, huge tail fin, wings along the _top_ of the plane (rather than through the mid-section), and slow maneuvering.  As far as size goes, the Hercules is single most impressive aircraft in the world (save the Boeing C-17 of course).
+If you live near an Air Force base, you’ve likely seen one of these freighters lifting into the sky.  They’re easily identified by their immense presence, four five/six-blade propellers, elongated underbelly, huge tail fin, wings along the _top_ of the plane (rather than through the mid-section), and slow maneuvering.  As far as size goes, the Hercules is the single most impressive aircraft in the world (save the Boeing C-17 of course).
 
 [![](/assets/c130_4.jpeg "c130_4")](/assets/c130_4.jpeg)
 

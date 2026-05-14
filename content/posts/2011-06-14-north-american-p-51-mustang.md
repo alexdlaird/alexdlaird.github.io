@@ -13,7 +13,7 @@ tags:
   - "quad-city-air-show"
 ---
 
-One-hundred-seventeen days.  Almost four months.  What could you build in one-hundred-seventeen days?  Perhaps I should rephrase that: what could you build in one-hundred-seventeen days _on a government contract_? Certainly not an entire aircraft, from the ground up, from scratch-paper to rolling it out of the hanger?
+One-hundred-seventeen days.  Almost four months.  What could you build in one-hundred-seventeen days?  Perhaps I should rephrase that: what could you build in one-hundred-seventeen days _on a government contract_? Certainly not an entire aircraft, from the ground up, from scratch-paper to rolling it out of the hangar?
 
 But it has been done.  The North American P-51 Mustang was ordered just one-hundred-seventeen days before the first prototype was rolled out.  That’s an incredible achievement right there.  Before the aircraft even got off the ground, putting all of its air superiority aside, the entire plane was designed and put together in less than four months.  It was flying less than two months after that.
 
@@ -29,7 +29,7 @@ As the war wrapped up, jet powered aircraft started to develop.  While many of t
 
 The USAAF consolidated much of its P-51 fleet after the end of the war.  A few upgrades were made to the plane through the 1950’s and the fighter lasted much longer than other piston powered fighter planes.  While much of the world was looking to jet powered fighters, the P-51 continued to have a role even into the 1960’s.  Finally, the last two military P-51s flew in 1968 as chase planes for a military helicopter.  The last P-51 that was downed in military combat flew in 1965.
 
-The P-51 played a vital role in winning Wold War II.
+The P-51 played a vital role in winning World War II.
 
 ## ![](/assets/DSC03324.jpg)Record
 
@@ -61,7 +61,7 @@ There has been a trend over the past few years to do “heritage” flights at a
 
 It’s even harder to see a P-51 in the movies.  There was only one movie made that centers around the P-51 and that was a 1957 film called _Battle Hymn_.  There are a handful of other movies that you catch glimpses of P-51s: _Empire of the Sun_, _Saving Private Ryan_, _Memphis Belle_, and _The Tuskegee Airmen_ all have a few scenes with P-51s flying.
 
-If you get a chance, head over to an airshow and catch a glimpse of the one of the finest WWII era fighters built.  It will be a trip worth taking.
+If you get a chance, head over to an airshow and catch a glimpse of one of the finest WWII era fighters built.  It will be a trip worth taking.
 
 ![](/assets/P-51-Phantom-Warthog-and-F-22.jpg)
 

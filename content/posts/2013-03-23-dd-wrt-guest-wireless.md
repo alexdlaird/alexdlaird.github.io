@@ -5,19 +5,19 @@ tags:
   - "instructional"
 ---
 
-If you've done any amount of work with routers, you know that it doesn't take long to start craving consistency. And more advanced functionality that the cheap home interfaces simply don't grant you. This is the point where you usually break down and start research things like Tomato, OpenWrt, and DD-WRT, just to name a few of the more popular alternatives.
+If you've done any amount of work with routers, you know that it doesn't take long to start craving consistency. And more advanced functionality that the cheap home interfaces simply don't grant you. This is the point where you usually break down and start researching things like Tomato, OpenWrt, and DD-WRT, just to name a few of the more popular alternatives.
 
 These alternate firmwares don't just provide a consistent administrative experience across all compatible models and brands, they also turn a cheap home router into a flexible and competitive enterprise router.
 
 # My Setup
 
-DD-WRT is my personal firmware of choice. Powerful, flexible, and stable. One thing that I demand in a router is the ability to broadcast a secondary SSID for my guest's to be able to access wireless internet in my home without also having access to my entire network of computers and devices.
+DD-WRT is my personal firmware of choice. Powerful, flexible, and stable. One thing that I demand in a router is the ability to broadcast a secondary SSID for my guests to be able to access wireless internet in my home without also having access to my entire network of computers and devices.
 
 Gladly, because my router's firmware was extremely slow and buggy, I flashed my [Cisco E2500 router](http://www.linksys.com/en-apac/products/routers/E2500) with ["mini" DD-WRT firmware](http://www.dd-wrt.com/phpBB2/download.php?id=21930) (the E2500 [also supports the "big" firmware](http://www.dd-wrt.com/wiki/index.php/Linksys_E2500)). But after reviewing getting the two wireless networks setup on my router, it was brought to my attention that there are no good tutorials for how exactly you are to do this using DD-WRT. The tutorial provided on their own website, in fact, does not work. So, I find that it falls upon me to put out my particular configuration for two mutually exclusive wireless networks from a single router, both networks having access to the WAN port (that is, internet access). There are, of course, multiple ways to do this. Feel free to leave alternative suggestions in the comments.
 
 # Create Two Wireless Networks
 
-First, create your wireless networks by clicking clicking on "Wireless" and then "Basic Settings". We'll setup security in a moment. After you've configured your private wireless network setup, click "Add" under "Virtual Interfaces" to add the "wl0.1 SSID". Give your guest network a separate SSID, and select "Enable" for "AP Isolation".
+First, create your wireless networks by clicking on "Wireless" and then "Basic Settings". We'll setup security in a moment. After you've configured your private wireless network setup, click "Add" under "Virtual Interfaces" to add the "wl0.1 SSID". Give your guest network a separate SSID, and select "Enable" for "AP Isolation".
 
 Now click "Save" and "Apply Settings".
 
@@ -79,7 +79,7 @@ iptables -I FORWARD -i br0 -o br1 -m state --state NEW -j DROP iptables -I INPUT
 
 You should now have two working SSIDs: a private one for your home network, and a guest network for your visitors. Both networks should have internet access. The private network will function the same as a LAN and single wireless network did before, with the wireless network having full access to the LAN connections. The guest network, on the other hand, is separated from the private network. Additionally, each individual device on the guest network is separate from another, so guests cannot see each other.
 
-If you've gotten to this point and something is not working, or your guest network does not have internet access, don't be alarmed. DD-WRT is a always evolving, and it's entirely possible bridge settings or firewall rules for the latest build have changed. If this tutorial does not produce the desired result, please leave a comment below. I'll try to always keep the tutorial updated with instructions for the latest DD-WRT build.
+If you've gotten to this point and something is not working, or your guest network does not have internet access, don't be alarmed. DD-WRT is always evolving, and it's entirely possible bridge settings or firewall rules for the latest build have changed. If this tutorial does not produce the desired result, please leave a comment below. I'll try to always keep the tutorial updated with instructions for the latest DD-WRT build.
 
 <div class="admonition important">
 

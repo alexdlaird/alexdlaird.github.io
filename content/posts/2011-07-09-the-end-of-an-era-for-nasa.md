@@ -12,7 +12,7 @@ tags:
 
 ## STS-135: The Final (Shuttle) Launch
 
-This morning marked the beginning of the end of an era.  I say the beginning of the end because the era does not conclusively close until next week, when the Space Shuttle Atlantis returns safely the Earth.
+This morning marked the beginning of the end of an era.  I say the beginning of the end because the era does not conclusively close until next week, when the Space Shuttle Atlantis returns safely to the Earth.
 
 The beginning of the end happened at 11:29 A.M. EST as Atlantis' rocket engines propelled the 4.5 million pound vehicle off the pad and, in eight and a half minutes, out of the Earth's atmosphere, into space, and up to a speed of 17,320 mph.  (For the astute reader, you'll note that this means it must be traveling at over 4.81 miles per second as it left the Earth's atmosphere.)
 
@@ -36,7 +36,7 @@ The aged space shuttles weren't originally built to optimal safety standards (yo
 
 ## Eye on the Prize
 
-The Space Shuttle Atlantis was hauling its crew and cargo to the International Space Station, a $100 billion dollar structure in a low-Earth orbit (about 220 miles out).  The Space Shuttle itself was designed primarily for this purpose even—a low-Earth orbit. But what about deep space exploration?  That's exactly what NASA said.  Orion, the vehicle being built for the future of space travel, is being designed with manned deep exploration in mind.  It's slated for a completion date of 2016, and it is expected to launch that same year assuming NASA gets a contractor to build a rocket for it and assuming that rocket is also completed by 2016. The Orion space capsule follows the primitive design of the Apollo spacecraft, but with much more of a vision.  Obviously, we've advanced quite a ways technologically since the Saturn V rockets boosted the Apollo capsule into space.  The aim for Orion is that she'll have the reliability and safety the old Apollo spacecraft with the ingenuity and technology of the future.  She's being built with the purpose of landing a man (or woman) on the surface of Mars.
+The Space Shuttle Atlantis was hauling its crew and cargo to the International Space Station, a $100 billion dollar structure in a low-Earth orbit (about 220 miles out).  The Space Shuttle itself was designed primarily for this purpose even—a low-Earth orbit. But what about deep space exploration?  That's exactly what NASA said.  Orion, the vehicle being built for the future of space travel, is being designed with manned deep exploration in mind.  It's slated for a completion date of 2016, and it is expected to launch that same year assuming NASA gets a contractor to build a rocket for it and assuming that rocket is also completed by 2016. The Orion space capsule follows the primitive design of the Apollo spacecraft, but with much more of a vision.  Obviously, we've advanced quite a ways technologically since the Saturn V rockets boosted the Apollo capsule into space.  The aim for Orion is that she'll have the reliability and safety of the old Apollo spacecraft with the ingenuity and technology of the future.  She's being built with the purpose of landing a man (or woman) on the surface of Mars.
 
 [![](/assets/shuttle1.jpg "STS-135 Atlantis Launch")](/assets/shuttle1.jpg)
 
@@ -54,7 +54,7 @@ Lockheed Martin, the primary contractor for the Orion project, has published pos
 
 ## Don't Care.  I Still Don't Need NASA
 
-Perhaps you're still not convinced.  Maybe you still think you you don't need NASA, and that NASA has done nothing to personally effect your life and loved ones.  Then I'll leave you with these thoughts:  well over 1,700 technologies, many of which you use daily, were brought to you from the multi-billion dollar space program and NASA ...
+Perhaps you're still not convinced.  Maybe you still think you don't need NASA, and that NASA has done nothing to personally affect your life and loved ones.  Then I'll leave you with these thoughts:  well over 1,700 technologies, many of which you use daily, were brought to you from the multi-billion dollar space program and NASA ...
 
 ... The fibrous material in your tire tread.  Your home's insulation.  Velcro.  Image processing (which gave you all the technology from a steady cam to image enhancement to HD movies to a personal video and still camera the size of your palm).  Prosthetics.  The GPS in your phone ... not to mention the satellite that your phone, television, and possibly even your internet connection talk to ... not to mention these satellites are now used to predict weather patterns, tornados, hurricanes, and more.  Health and safety equipment from ventricular devices to help your heart pump blood to more lightweight material that firefighters can wear when entering a burning building.  Cordless tools ...
 

@@ -14,9 +14,9 @@ I’ve been perusing this fine internet of hours all day, reviewing and attempti
 
 ## My System, My Recommendation, and My Disclaimer
 
-The systems I was trying to get this work was in conjunction with my out dated, 2008, 2 GHz Intel Core Duo MacBook Pro with a measly 2GB of 667 MHz DDR2 SDRAM. I dual boot between OS X Leopard and Windows 7 using Boot Camp. I plug into a 24” Samsung display and use a Bluetooth Logitech MX 5500 keyboard and mouse set at my desk. Using Slax, all of this was compatible and _immediately_ recognized!! I had absolutely no problems with hardware, so I highly recommend using Slax as your portable Linux distribution. I had success with DSL after initial frustrations (the track pad is not recognized, so I was forced to plug a USB mouse in), and it’s simply not as clean or power of a system as Slax is.
+The system I was trying to get this to work on was in conjunction with my outdated, 2008, 2 GHz Intel Core Duo MacBook Pro with a measly 2GB of 667 MHz DDR2 SDRAM. I dual boot between OS X Leopard and Windows 7 using Boot Camp. I plug into a 24” Samsung display and use a Bluetooth Logitech MX 5500 keyboard and mouse set at my desk. Using Slax, all of this was compatible and _immediately_ recognized!! I had absolutely no problems with hardware, so I highly recommend using Slax as your portable Linux distribution. I had success with DSL after initial frustrations (the track pad is not recognized, so I was forced to plug a USB mouse in), and it’s simply not as clean or powerful of a system as Slax is.
 
-Doing all of this in no way effected positively or negatively the booting, reliability or functionality of OS X Leopard or Windows 7 on my system or Windows XP on any of the BIOS-based systems I ran this on. However, as always, proceed at your own risk.
+Doing all of this in no way affected positively or negatively the booting, reliability or functionality of OS X Leopard or Windows 7 on my system or Windows XP on any of the BIOS-based systems I ran this on. However, as always, proceed at your own risk.
 
 I recommend the 4GB flash drive from Amazon below, as it is cheap and reliable. Though you don't need a full 4GB flash drive, if you ever want to throw a larger distribution of Linux onto the flash drive at any time, or if you'd like to use the drive for other storage at a later date, this is a good size and a great price.  Also ... it's hard to find a smaller drive than 4GB these days!
 
@@ -69,6 +69,6 @@ In a Windows environment (it’s just easiest that way, trust me), follow these 
 
 ## Conclusion
 
-In theory, you should now be able restart your system and it will notice that you have a bootable USB drive in the computer (assuming, of course, that you do). If rEFIt opens, use the arrow keys to navigate to your USB drive and press Enter. If your on a BIOS system, you may need to press a key (if it tells you to press a key for the boot menu), but most likely it will pop up with a message telling you to press any key to boot Linux. If you don’t press any key, it may continue into your standard operating system, so you’ll want to strike that Enter key.
+In theory, you should now be able to restart your system and it will notice that you have a bootable USB drive in the computer (assuming, of course, that you do). If rEFIt opens, use the arrow keys to navigate to your USB drive and press Enter. If you're on a BIOS system, you may need to press a key (if it tells you to press a key for the boot menu), but most likely it will pop up with a message telling you to press any key to boot Linux. If you don’t press any key, it may continue into your standard operating system, so you’ll want to strike that Enter key.
 
 I hope this works as well for all of you as it did for me! It’s always handy to have a portable, friendly, and compatible version of Linux in your slacks that you can whip out and use anytime, on any computer.

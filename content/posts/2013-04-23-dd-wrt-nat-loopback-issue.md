@@ -27,6 +27,6 @@ insmod ipt_mark insmod xt_mark iptables -t mangle -A PREROUTING -i ! `get_wanfac
 
 That's it! Now, try pinging your external IP again from the Command Line. This time you should receive packets.
 
-DD-WRT is a always evolving. The developers have stated that they aren't planning on fixing this issue, but if this procedure doesn't work for you, leave a comment below and I'll check to see if something has changed in the latest version of DD-WRT. I’ll try to always keep the tutorial updated with instructions for the latest DD-WRT build.
+DD-WRT is always evolving. The developers have stated that they aren't planning on fixing this issue, but if this procedure doesn't work for you, leave a comment below and I'll check to see if something has changed in the latest version of DD-WRT. I’ll try to always keep the tutorial updated with instructions for the latest DD-WRT build.
 
 Also, if you previously followed [my DD-WRT Guest Wireless tutorial](http://alexlaird.com/2013/03/dd-wrt-guest-wireless/), this fix should work for both interfaces.

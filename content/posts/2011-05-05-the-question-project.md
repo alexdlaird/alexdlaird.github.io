@@ -14,7 +14,7 @@ In a post modern sort of way, The Question of Music, Meaning, and Life Project a
 <div class="admonition important">
 
 
-I have since lost the audio files for this project, but it's worth reiterating they were a joke. All tracks files were either complete silence or static, and the real journey was meant to be the track descriptions left below.
+I have since lost the audio files for this project, but it's worth reiterating they were a joke. All track files were either complete silence or static, and the real journey was meant to be the track descriptions left below.
 
 </div>
 
@@ -71,7 +71,7 @@ This is no laughing matter. If a tree falls in the forest, and there is no one t
 
 Presumably no, by the definition of sound. For a sound is the vibration of matter as perceived by hearing. If there is no one there to hear it, no sound can be made, because hearing is part of the definition of a sound. However, hearing is not only done by humans. Hearing is done by animals and all other creatures of creation as well. The chances of there being absolutely nothing around to apprehend the noise vibrations is extremely unlikely.
 
-However the question does suggest that there is no one present to hear it. Since the definition of hearing is circular, perceiving sound through the ear, we can be most certain that a sound is not actually made by the tree falling in the forest with no one around to heart it.
+However the question does suggest that there is no one present to hear it. Since the definition of hearing is circular, perceiving sound through the ear, we can be most certain that a sound is not actually made by the tree falling in the forest with no one around to hear it.
 
 This track was written in loving memory of the numerous trees who have given their lives to prove this point.
 
@@ -93,7 +93,7 @@ There's the old urban legend that if your nose is itching, someone is thinking a
 
 Think about it. It’s an emotional attachment to the one who loves you; an understanding simply through the sense of feeling, but they aren’t even present to be touching you. It takes a true, deep love to be able to affect someone so deeply through the senses without even being present.
 
-This track is a dedication to that love; a silent love that can only be understood by the one who’s nose is itching, silently.
+This track is a dedication to that love; a silent love that can only be understood by the one whose nose is itching, silently.
 
 [Back to top](#top)
 
@@ -111,9 +111,9 @@ So, Pluto, here’s to you … A moment of silence in commemoration of when you 
 
 The mindset that all sandwiches are created equal is a fallacy of life that far too many people are sucked into.
 
-You say that a sandwich is a sandwich, no matter which way it is cut, but that is simply untrue. For, in fact, the taste of a sandwich may be perceived by one as better if it is cut differently. One of the definitions of taste being "to appreciate or enjoy," one may appreciate or enjoy a sandwich more if it is cut triangularly, thus rending the sandwich a better tasting one than had it been cut squarely.
+You say that a sandwich is a sandwich, no matter which way it is cut, but that is simply untrue. For, in fact, the taste of a sandwich may be perceived by one as better if it is cut differently. One of the definitions of taste being "to appreciate or enjoy," one may appreciate or enjoy a sandwich more if it is cut triangularly, thus rendering the sandwich a better tasting one than had it been cut squarely.
 
-In fact, this is most commonly the case, as numerous accounts of triangularly cut sandwiches tasting better then squarely cut ones have emerged all over the globe. While it may be a matter of your taste as to whether or not the triangle sandwich is better or not, it is more likely that you simply are one of those who wishes to go against the trends of everyone, therefore your mind is refusing to allow you to enjoy the superior taste of the triangularly cut sandwich. We pray for you.
+In fact, this is most commonly the case, as numerous accounts of triangularly cut sandwiches tasting better than squarely cut ones have emerged all over the globe. While it may be a matter of your taste as to whether or not the triangle sandwich is better or not, it is more likely that you simply are one of those who wishes to go against the trends of everyone, therefore your mind is refusing to allow you to enjoy the superior taste of the triangularly cut sandwich. We pray for you.
 
 This track is dedicated to all the triangle sandwiches that are eaten by people who refuse to admit they taste better. Don’t worry, Sandwich. You do.
 
@@ -133,7 +133,7 @@ There was much debate about whether it was more appropriate to start with RGB: (
 
 Or, more specifically, when was sliced bread invented, and by whom?
 
-The story is very near and dear to the artist's heart. Sliced bread was essentially invented by Otto Frederick Rohwedder of Davenport, IA. Alex Laird is also from Iowa and enjoys freshly sliced bread each morning. Rohwedder built a prototype for the first bread slicer in 1917, thus rending bread now sliceable. The prototype was destroyed in a supposedly accidental fire.
+The story is very near and dear to the artist's heart. Sliced bread was essentially invented by Otto Frederick Rohwedder of Davenport, IA. Alex Laird is also from Iowa and enjoys freshly sliced bread each morning. Rohwedder built a prototype for the first bread slicer in 1917, thus rendering bread now sliceable. The prototype was destroyed in a supposedly accidental fire.
 
 What many people don't know is the controversies that have been had over whether slicing bread should be legal or not. In the mid-1900s, street riots broke out frequently simply as a result of arguments of bread slicing, how it should be done, and whether it was ethical. In fact, in 1943, the U.S. put a ban on sliced bread for a short period of time, but the response to this ban was so great that it was soon lifted. This is why the fire destroying Rohwedder's bread slicer is frequently considered intentional. It wasn't until the 60s, when peace and love were spreading rampantly, that Americans decided bread should be able to be sliced if people wanted to slice it.
 
@@ -167,6 +167,6 @@ By far the most moving piece on The Question of Music, Meaning, and Life, [Hidde
 
 While the general theme of The Question of Music, Meaning, and Life is to contradict all musical norms by going against what is expected, the artist chose to close off the album by following two stereotypes of a mainstream album: firstly, a track which is simply titled Untitled, and secondly, a hidden track which plays after several minutes of silence.
 
-Most shockingly, [Hidden Track] is the only track on the album that actually delivers noise to the listener. This was done intentionally as a final emotional movement to the album in which, after pulling moving the listener emotionally for all the previous, the artist finally gives them what their heart is so longing for: a sound.
+Most shockingly, [Hidden Track] is the only track on the album that actually delivers noise to the listener. This was done intentionally as a final emotional movement to the album in which, after moving the listener emotionally for all the previous, the artist finally gives them what their heart is so longing for: a sound.
 
 [Back to top](#top)
