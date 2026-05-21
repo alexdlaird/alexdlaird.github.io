@@ -1,6 +1,6 @@
 ---
 title: "Alex Laird"
-description: "Staff Engineer at Twilio, open source maintainer, builder of developer tools like pyngrok and amazon-orders, creator of Helium — Student Planner."
+description: "Staff Engineer at Twilio, open source maintainer, builder of developer tools like pyngrok and amazon-orders, creator of Helium - Student Planner."
 ---
 
 ## Featured Projects
