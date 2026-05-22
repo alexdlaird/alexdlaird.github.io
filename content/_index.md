@@ -10,7 +10,7 @@ Python wrapper for ngrok (also see [java-ngrok](https://github.com/alexdlaird/ja
 {{< /project-card >}}
 
 {{< project-card icon="📅" name="Helium" url="https://github.com/HeliumEdu" badge-url="https://app.heliumedu.com" badge-img="https://img.shields.io/badge/Launch-App-4285F4?logo=googlechrome&logoColor=white" badge-alt="Launch App" >}}
-Open-source student planner I've been building since 2009 — color-coded classes, homework, grades, and notes, with a backend API, web & mobile app you can use, fork, or self-host.
+Open-source student planner I've been building since 2009 — color-coded classes, homework, grades, and notes, with a backend API, web & mobile apps you can use, fork, or self-host.
 {{< /project-card >}}
 
 {{< project-card icon="📦" name="amazon-orders" url="https://github.com/alexdlaird/amazon-orders" badge-url="https://pepy.tech/project/amazon-orders" badge-img="https://static.pepy.tech/badge/amazon-orders" badge-alt="Downloads" >}}
