@@ -34,8 +34,12 @@ enableGitInfo = true
     publisherType = "Person"
     sameAs = [
       "https://github.com/alexdlaird",
+      "https://hub.docker.com/u/alexdlaird",
       "https://www.linkedin.com/in/alexdlaird/",
       "https://www.patreon.com/alexdlaird/membership",
+      "https://pypi.org/user/alexdlaird/",
+      "https://app.readthedocs.org/profiles/alexdlaird/",
+      "https://stackoverflow.com/users/1128413/alexdlaird",
     ]
 
   [params.analytics.google]
@@ -55,6 +59,10 @@ enableGitInfo = true
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/alexdlaird"
+
+  [[params.socialIcons]]
+    name = "stackoverflow"
+    url = "https://stackoverflow.com/users/1128413/alexdlaird"
 
   [[params.socialIcons]]
     name = "linkedin"
