@@ -42,6 +42,11 @@ enableGitInfo = true
       "https://stackoverflow.com/users/1128413/alexdlaird",
     ]
 
+  [params.fuseOpts]
+    threshold = 0.2
+    minMatchCharLength = 3
+    keys = ["title", "summary", "content"]
+
   [params.analytics.google]
     SiteVerificationTag = "bVteyR4ELhNItmLQUA-l1R1XvJVTn2KdXohwVsOpSVc"
 
