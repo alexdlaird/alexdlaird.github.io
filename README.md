@@ -3,6 +3,8 @@
 
 Source for [alexlaird.com](https://www.alexlaird.com), a personal site and blog.
 
+Code is [MIT](LICENSE). Blog content is © Alex Laird.
+
 ## Development
 
 To preview, run:
