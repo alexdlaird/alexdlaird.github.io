@@ -13,7 +13,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 POSTS_DIR = REPO_ROOT / "content" / "posts"
-README_URL_TEMPLATE = "https://raw.githubusercontent.com/{repo}/main/README.md"
+README_URL_TEMPLATE = "https://raw.githubusercontent.com/{repo}/develop/README.md"
 FETCH_TIMEOUT_SECONDS = 30
 
 SYNC_MAP = {
