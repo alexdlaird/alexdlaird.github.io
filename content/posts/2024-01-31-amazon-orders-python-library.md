@@ -13,7 +13,7 @@ tags:
 coverImage: "Screenshot-2024-03-03-at-7.22.55 PM.png"
 ---
 
-<p align="center"><img alt="amazon-orders - A Python library (and CLI) for Amazon order history" src="https://amazon-orders.readthedocs.io/en/latest/_images/logo.png" /></p>
+<p align="center"><img alt="amazon-orders - A Python library (and CLI) for Amazon order history" src="https://amazon-orders.readthedocs.io/_images/logo.png" /></p>
 
 [![Version](https://img.shields.io/pypi/v/amazon-orders)](https://pypi.org/project/amazon-orders)
 [![Python Versions](https://img.shields.io/pypi/pyversions/amazon-orders.svg)](https://pypi.org/project/amazon-orders)
@@ -43,7 +43,7 @@ pip install amazon-orders --upgrade
 
 That's it! `amazon-orders` is now available as a package to your Python projects and from the command line.
 
-If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (ex. `==4.5.*`, not `==4.5.0`) to
+If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (ex. `==4.6.*`, not `==4.6.0`) to
 ensure you always get the latest stable release.
 
 ## Basic Usage
@@ -90,6 +90,16 @@ amazon-orders history --year 2023
 amazon-orders history --last-30-days
 amazon-orders history --last-3-months
 ```
+
+Pass `--output` to get `json`, `yaml`, or `csv` instead of the default text:
+
+```sh
+amazon-orders history --year 2023 --output json > orders.json
+amazon-orders history --last-30-days --output csv > orders.csv
+```
+
+See [Output Formats](https://amazon-orders.readthedocs.io/index.html#output-formats) for details, including
+[`to_dict()`](https://amazon-orders.readthedocs.io/api.html#amazonorders.entity.parsable.Parsable.to_dict).
 
 ### Automating Authentication
 
