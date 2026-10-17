@@ -26,37 +26,21 @@ the rooms we actually live in, and decided it was worth releasing for everyone e
 That app is Hearth, and it works with Daikin, Amana, and Goodman smart thermostats. **Get started at
 [meethearth.app](https://meethearth.app/)**.
 
-## What Hearth Does Today
+## The Rooms We Actually Live In
 
-The first release is all about the thermostat, doing the basics that Skyport should have been doing all along.
+Here's what bugged me most. A thermostat on the wall only knows how warm it is right where it's mounted, and that's
+rarely where any of us actually are. What I wanted was simple: comfortable bedrooms at night, a comfortable living room
+during the day, and nobody getting up to fiddle with the thermostat to make that happen.
 
-You get presets (Home, Away, Sleep, or your own) that switch on a weekly schedule, and holds for when plans change. If
-someone bumps the thermostat on the wall, you decide whether that change sticks or Hearth goes back to its plan.
+That's what Hearth does for us now. It watches the rooms that matter at the moment and nudges the thermostat until
+they're right. Honestly, it's the part I'd have the hardest time giving up.
 
-Hearth also keeps a history. There are charts of temperatures, setpoints, and when the system was heating or cooling,
-plus a timeline of every change and who made it, whether that was Hearth, its schedule, or someone outside the app. It
-will also alert you when heating or cooling falls behind or the thermostat goes offline.
+## Bring Your Own Sensors
 
-> **Note:** With Hearth Autopilot on, Hearth runs your schedule itself, so it turns off the thermostat's own schedule.
-> Switch Autopilot off any time and the app just mirrors your thermostat.
-
-## Room Sensors
-
-Room sensors are the reason I built Hearth in the first place, and now they're here for everyone!
-[Govee](https://www.meethearth.app/sensors/govee) Wi-Fi thermometers and
-[Ambient Weather](https://www.meethearth.app/sensors/ambient-weather) stations connect right in the app ... just enter
-your account's API key, add the sensors you want, and name them for their rooms. If you don't have sensors yet, Govee's
-are a great place to start: they're affordable, they connect straight to Wi-Fi, and there's no hub to buy.
-
-Already have sensors in [Home Assistant](https://www.meethearth.app/sensors/home-assistant),
-[ESPHome](https://www.meethearth.app/sensors/esphome), and/or your own scripts? Those can send their readings to Hearth
-too, with the [Hearth API](https://www.meethearth.app/support#hearth-api). And
-[Ecowitt](https://www.meethearth.app/sensors/ecowitt) support is coming next.
-
-Once a room has a sensor, Hearth adjusts the thermostat until the room you're following hits its target. You can follow
-one room, the average of your rooms, or whichever room is furthest from its target, and each preset picks its own, so
-Hearth can follow the bedrooms at night and the living room by day. If a sensor goes quiet, Hearth falls back to the
-thermostat.
+I started with the Ambient Weather sensors I already had, but I didn't want Hearth to only work for folks who happen to
+own the same gear I do. So it also works with Govee's Wi-Fi thermometers, which are cheap and easy if you're starting
+from scratch. And if you're the tinkering type, Home Assistant, ESPHome, and/or your own scripts can send their readings
+in too. The [sensor guides](https://www.meethearth.app/support#sensors) on the Hearth site have all the details.
 
 ## Early Access
 
