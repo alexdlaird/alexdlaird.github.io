@@ -40,11 +40,18 @@ will also alert you when heating or cooling falls behind or the thermostat goes 
 > **Note:** With Hearth Autopilot on, Hearth runs your schedule itself, so it turns off the thermostat's own schedule.
 > Switch Autopilot off any time and the app just mirrors your thermostat.
 
-## Room Sensors Are Rolling Out
+## Room Sensors
 
-Room sensors are the reason I built Hearth in the first place, and they're already running in our home. I'm rolling
-them out slowly. Soon you'll be able to bring your own Ambient Weather sensors, like I do, and I'm adding SensorPush
-support too.
+Room sensors are the reason I built Hearth in the first place, and now they're here for everyone!
+[Govee](https://www.meethearth.app/sensors/govee) Wi-Fi thermometers and
+[Ambient Weather](https://www.meethearth.app/sensors/ambient-weather) stations connect right in the app ... just enter
+your account's API key, add the sensors you want, and name them for their rooms. If you don't have sensors yet, Govee's
+are a great place to start: they're affordable, they connect straight to Wi-Fi, and there's no hub to buy.
+
+Already have sensors in [Home Assistant](https://www.meethearth.app/sensors/home-assistant),
+[ESPHome](https://www.meethearth.app/sensors/esphome), and/or your own scripts? Those can send their readings to Hearth
+too, with the [Hearth API](https://www.meethearth.app/support#hearth-api). And
+[Ecowitt](https://www.meethearth.app/sensors/ecowitt) support is coming next.
 
 Once a room has a sensor, Hearth adjusts the thermostat until the room you're following hits its target. You can follow
 one room, the average of your rooms, or whichever room is furthest from its target, and each preset picks its own, so
@@ -53,9 +60,9 @@ thermostat.
 
 ## Early Access
 
-Hearth is invite-only while I test it with a small group of homes. If you set up now, it's free for life. Homes that
-join later will pay a small yearly fee to cover running costs. On Android, early access goes through a testing group:
-ask to join, and once you're approved, I'll send you the link to install.
+Hearth is out now on the [App Store](https://apps.apple.com/app/id6816728401) and
+[Google Play](https://play.google.com/store/apps/details?id=com.alexdlaird.hearth). If you set up now, it's free for
+life. Homes that join later will pay a small yearly fee to cover running costs.
 
 Spread the word! Head to [meethearth.app](https://meethearth.app/) to get started, and if you have questions or
 feedback, write to [contact@meethearth.app](mailto:contact@meethearth.app).
