@@ -42,6 +42,18 @@ own the same gear I do. So it also works with Govee's Wi-Fi thermometers, which 
 from scratch. And if you're the tinkering type, Home Assistant, ESPHome, and/or your own scripts can send their readings
 in too. The [sensor guides](https://www.meethearth.app/support#sensors) on the Hearth site have all the details.
 
+## Around the Campfire
+
+A bit of a confession. The name, and the whole look of the app, is a little homage to one of my favorite video games of
+all time. If you've played it, you'll probably catch it right away: a small forest planet at night, pine green
+throughout, campfire orange for heating, geyser blue for cooling, and a tiny planet and its moon orbiting while things
+load.
+
+Switch to dark mode and there's a quiet night sky behind every page. Keep an eye on it long enough ... say, twenty or so
+minutes ... and you just might see something. If it rings a bell, welcome home, fellow Hearthian. And if it doesn't,
+no matter, none of the easter eggs in the app are otherwise intrusive, so it still adds to a generally warm and fresh
+look-and-feel for the app.
+
 ## Early Access
 
 Hearth is out now on the [App Store](https://apps.apple.com/app/id6816728401) and
