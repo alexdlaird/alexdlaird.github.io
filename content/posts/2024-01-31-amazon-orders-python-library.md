@@ -150,6 +150,9 @@ environment variables `amazon-orders` looks for are:
 
 Any other config value can be set the same way, as `AMAZON_<KEY>` (see [`AmazonOrdersConfig`](https://amazon-orders.readthedocs.io/api.html#amazonorders.conf.AmazonOrdersConfig)).
 
+A configured username also applies to `amazon-orders login --browser`: it's filled in and submitted for you, so the
+browser opens on Amazon's password or passkey step. The browser never fills in your password.
+
 ### Languages and Regions
 
 `amazon-orders` reads Amazon's pages in English. The `.com` site is validated nightly.
@@ -167,6 +170,9 @@ An AI assistant has two ways to use `amazon-orders`. One that runs commands uses
 as shown above. Any MCP client gets the same as tools through
 [`amazon-orders-mcp`](https://github.com/alexdlaird/amazon-orders-mcp#readme), a server built on `amazon-orders` — see
 its README for setup.
+
+The server signs you in with a browser, so it needs a display. Without one, use the CLI or library with
+[Automating Authentication](#automating-authentication).
 
 ## Documentation
 
