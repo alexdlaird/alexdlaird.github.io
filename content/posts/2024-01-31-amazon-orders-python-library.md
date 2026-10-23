@@ -16,6 +16,7 @@ coverImage: "Screenshot-2024-03-03-at-7.22.55 PM.png"
 <p align="center"><img alt="amazon-orders - A Python library (and CLI) for Amazon order history" src="https://amazon-orders.readthedocs.io/_images/logo.png" /></p>
 
 [![Version](https://img.shields.io/pypi/v/amazon-orders)](https://pypi.org/project/amazon-orders)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/amazon-orders)](https://pypistats.org/packages/amazon-orders)
 [![Python Versions](https://img.shields.io/pypi/pyversions/amazon-orders.svg)](https://pypi.org/project/amazon-orders)
 [![Coverage](https://img.shields.io/codecov/c/github/alexdlaird/amazon-orders)](https://codecov.io/gh/alexdlaird/amazon-orders)
 [![Build](https://img.shields.io/github/actions/workflow/status/alexdlaird/amazon-orders/build.yml)](https://github.com/alexdlaird/amazon-orders/actions/workflows/build.yml)
@@ -38,7 +39,7 @@ pip install amazon-orders --upgrade
 
 That's it! `amazon-orders` is now available as a package to your Python projects and from the command line.
 
-If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (e.g. `==4.9.*`, not `==4.9.0`) to
+If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (e.g. `==4.11.*`, not `==4.11.0`) to
 ensure you always get the latest stable release.
 
 ## Basic Usage
@@ -46,8 +47,9 @@ ensure you always get the latest stable release.
 You'll use [`AmazonSession`](https://amazon-orders.readthedocs.io/api.html#amazonorders.session.AmazonSession) to
 authenticate your Amazon account, then [`AmazonOrders`](https://amazon-orders.readthedocs.io/api.html#amazonorders.orders.AmazonOrders),
 [`AmazonTransactions`](https://amazon-orders.readthedocs.io/api.html#amazonorders.transactions.AmazonTransactions),
-and [`AmazonGiftCards`](https://amazon-orders.readthedocs.io/api.html#amazonorders.gift_cards.AmazonGiftCards)
-to interact with account data. [`get_order_history`](https://amazon-orders.readthedocs.io/api.html#amazonorders.orders.AmazonOrders.get_order_history)
+[`AmazonGiftCards`](https://amazon-orders.readthedocs.io/api.html#amazonorders.gift_cards.AmazonGiftCards),
+and [`AmazonPrime`](https://amazon-orders.readthedocs.io/api.html#amazonorders.prime.AmazonPrime)
+to interact with account data. [`get_orders`](https://amazon-orders.readthedocs.io/api.html#amazonorders.orders.AmazonOrders.get_orders)
 and [`get_order`](https://amazon-orders.readthedocs.io/api.html#amazonorders.orders.AmazonOrders.get_order) are good places to start.
 
 ```python
@@ -62,18 +64,18 @@ amazon_session.login()
 amazon_orders = AmazonOrders(amazon_session)
 
 # Get orders from a specific year
-orders = amazon_orders.get_order_history(year=2023)
+orders = amazon_orders.get_orders(year=2023)
 
 # Or use time filters for recent orders
-orders = amazon_orders.get_order_history(time_filter=Constants.LAST_30_DAYS_TIME_FILTER)
-orders = amazon_orders.get_order_history(time_filter=Constants.LAST_3_MONTHS_TIME_FILTER)
+orders = amazon_orders.get_orders(time_filter=Constants.LAST_30_DAYS_TIME_FILTER)
+orders = amazon_orders.get_orders(time_filter=Constants.LAST_3_MONTHS_TIME_FILTER)
 
 for order in orders:
     print(f"{order.order_number} - {order.grand_total}")
 ```
 
 If the fields you're looking for aren't populated with the above, set `full_details=True` (or pass `--full-details` to
-the `history` CLI command), since by default it is `False` (enabling it slows down querying, since an additional
+the `orders` CLI command), since by default it is `False` (enabling it slows down querying, since an additional
 request for each order is necessary). Have a look at the [Order](https://amazon-orders.readthedocs.io/api.html#amazonorders.entity.order.Order) entity's docs to see what fields are only
 populated with full details.
 
@@ -83,20 +85,21 @@ You can also run any command available to the main Python interface from the com
 
 ```sh
 amazon-orders login
-amazon-orders history --year 2023
-amazon-orders history --last-30-days
-amazon-orders history --last-3-months
+amazon-orders orders --year 2023
+amazon-orders orders --last-30-days
+amazon-orders orders --last-3-months
+amazon-orders search-orders "coffee"
 ```
 
 ### Output Formats
 
-The `history`, `order`, `transactions`, `order-transactions`, and `gift-card-activity` commands accept
-`--output`, which renders Orders, Transactions, and Gift Card activity as `text` (the default), `json`,
-`yaml`, or `csv`. Progress messages are written to `stderr`, so redirecting `stdout` captures only the data.
+Commands that return Orders, Transactions, and other entities accept `--output`, which renders them as `text` (the
+default), `json`, `yaml`, or `csv`. Progress messages are written to `stderr`, so redirecting `stdout` captures only the
+data.
 
 ```sh
-amazon-orders history --year 2023 --output json > orders.json
-amazon-orders history --last-30-days --output csv > orders.csv
+amazon-orders orders --year 2023 --output json > orders.json
+amazon-orders orders --last-30-days --output csv > orders.csv
 ```
 
 To serialize from Python instead, every entity has [`to_dict()`](https://amazon-orders.readthedocs.io/api.html#amazonorders.entity.parsable.Parsable.to_dict),
@@ -108,7 +111,7 @@ import json
 from amazonorders.orders import AmazonOrders
 
 amazon_orders = AmazonOrders(amazon_session)
-orders = amazon_orders.get_order_history(year=2023)
+orders = amazon_orders.get_orders(year=2023)
 
 # [{"order_number": "112-9685975-5907428", "grand_total": 35.98, ...}]
 print(json.dumps([order.to_dict() for order in orders], indent=2))

@@ -25,12 +25,12 @@ coverImage: "logo.png"
 [![Docs](https://img.shields.io/badge/docs-passing-brightgreen)](https://alexdlaird.github.io/java-ngrok/)
 [![GitHub License](https://img.shields.io/github/license/alexdlaird/java-ngrok)](https://github.com/alexdlaird/java-ngrok/blob/main/LICENSE)
 
-`java-ngrok` is a Java wrapper for `ngrok` that manages its own binary, making `ngrok` available via a convenient Java
-API.
+`java-ngrok` is a Java wrapper for `ngrok` that provides programmatic tunnels for ingress, webhooks, demos, and APIs.
+It downloads and manages the `ngrok` agent for you, making it available through a Java API. It runs anywhere the
+`ngrok` agent does. The library is mature and stable, and it tracks new `ngrok` releases.
 
 [`ngrok`](https://ngrok.com) is a reverse proxy that opens secure tunnels from public URLs to localhost. It's perfect
-for rapid
-development (test webhooks, demo local websites, enable SSH access), establishing ingress to external
+for rapid development (test webhooks, demo local websites, enable SSH access), establishing ingress to external
 networks and devices, building production APIs (traffic policies, OAuth, load balancing), and more. And
 it's made even more powerful with native Java integration through the `java-ngrok` client.
 
@@ -40,7 +40,7 @@ it's made even more powerful with native Java integration through the `java-ngro
 on [Maven Central](https://central.sonatype.com/artifact/com.github.alexdlaird/java-ngrok).
 
 If you want `ngrok` to be available from the command
-line, [`pyngrok`](https://pyngrok.readthedocs.io/en/latest/#installation)
+line, [`pyngrok`](https://pyngrok.readthedocs.io/en/stable/#installation)
 can be installed using `pip` to manage that for you.
 
 ## Basic Usage
@@ -77,7 +77,7 @@ final Tunnel namedTunnel = ngrokClient.connect(createNamedTunnel);
 // <Tunnel: "https://some-endpoint.internal" -> "http://localhost:9000">
 final CreateTunnel createInternalEndpoint = new CreateTunnel.Builder()
         .withAddr("9000")
-        .withDomain("some-endpoint.internal")
+        .withUrl("https://some-endpoint.internal")
         .withPoolingEnabled(true)
         .build();
 final Tunnel internalEndpoint = ngrokClient.connect(createInternalEndpoint);
@@ -120,7 +120,7 @@ final ApiResponse endpointResponse = ngrokClient.api(
 
 ### Command Line Usage
 
-Assuming you have also installed [`pyngrok`](https://pyngrok.readthedocs.io/en/latest/#installation), all features of
+Assuming you have also installed [`pyngrok`](https://pyngrok.readthedocs.io/en/stable/#installation), all features of
 `ngrok` are available
 on the command line.
 
