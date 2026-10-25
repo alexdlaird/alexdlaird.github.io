@@ -5,6 +5,7 @@ slug: "hearth-room-thermostat-for-daikin-amana-goodman"
 tags: 
   - "daikin"
   - "hearth"
+  - "home-assistant"
   - "mobile-app"
   - "programming"
   - "smart-home"
@@ -23,7 +24,8 @@ thermostat on the wall finally started exposing its API. And that's all I needed
 app, I wrote my own! I hooked it up to the Ambient Weather sensors I already had around the house, taught it to follow
 the rooms we actually live in, and decided it was worth releasing for everyone else stuck in the same spot.
 
-That app is Hearth, and it works with Daikin, Amana, and Goodman smart thermostats. **Get started at
+That app is Hearth, and it works with Daikin, Amana, and Goodman smart thermostats ... and just about any other
+thermostat you've got in Home Assistant, too. **Get started at
 [meethearth.app](https://meethearth.app/)**.
 
 ## The Rooms We Actually Live In
@@ -39,8 +41,18 @@ they're right. Honestly, it's the part I'd have the hardest time giving up.
 
 I started with the Ambient Weather sensors I already had, but I didn't want Hearth to only work for folks who happen to
 own the same gear I do. So it also works with Govee's Wi-Fi thermometers, which are cheap and easy if you're starting
-from scratch. And if you're the tinkering type, Home Assistant, ESPHome, and/or your own scripts can send their readings
-in too. The [sensor guides](https://www.meethearth.app/support#sensors) on the Hearth site have all the details.
+from scratch. And if you're the tinkering type and already run Home Assistant, Hearth has an integration for it,
+so pretty much any temperature sensor Home Assistant can see (Zigbee, Z-Wave, Bluetooth, your ESPHome boards) can be
+a room in Hearth. Your own scripts can send their readings in, too. The
+[sensor guides](https://www.meethearth.app/support#sensors) on the Hearth site have all the details.
+
+## Home Assistant, Both Ways
+
+That integration doesn't stop at sensors. If your thermostat is one Hearth can't talk to directly, but Home Assistant
+can, Hearth can run it through Home Assistant, room following and all. It's the same app on your phone either way;
+Home Assistant just does the talking to the thermostat. If that sounds like your setup, the
+[Home Assistant guide](https://www.meethearth.app/sensors/home-assistant) walks through it, and the integration itself
+is open source as [ha-hearth](https://github.com/alexdlaird/ha-hearth).
 
 ## Around the Campfire
 
