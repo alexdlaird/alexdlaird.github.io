@@ -63,10 +63,10 @@ all time. If you've played it, you'll probably catch it right away: a small fore
 throughout, campfire orange for heating, geyser blue for cooling, and a tiny planet and its moon orbiting while things
 load.
 
-Switch to dark mode and there's a quiet night sky behind every page. Keep an eye on it long enough ... say, twenty or so
-minutes ... and you just might see something. If it rings a bell, welcome home, fellow Hearthian. And if it doesn't,
-no matter, none of the easter eggs in the app are otherwise intrusive, so it still adds to a generally warm and fresh
-look-and-feel for the app.
+There's a quiet sky behind every page, a night sky in dark mode and a daytime one in light. Keep an eye on it long
+enough ... say, twenty or so minutes ... and you just might see something. If it rings a bell, welcome home, fellow
+Hearthian. And if it doesn't, no matter, none of the easter eggs in the app are otherwise intrusive, so it still adds
+to a generally warm and fresh look-and-feel for the app.
 
 ## Early Access
 
