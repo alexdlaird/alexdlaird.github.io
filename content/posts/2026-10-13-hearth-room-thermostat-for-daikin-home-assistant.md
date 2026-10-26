@@ -1,7 +1,9 @@
 ---
-title: "Hearth - a room thermostat for Daikin, Amana, and Goodman"
+title: "Hearth - a room thermostat for Daikin & Home Assistant"
 date: 2026-10-13
-slug: "hearth-room-thermostat-for-daikin-amana-goodman"
+slug: "hearth-room-thermostat-for-daikin-home-assistant"
+aliases:
+  - /2026/10/hearth-room-thermostat-for-daikin-amana-goodman/
 tags: 
   - "daikin"
   - "hearth"
@@ -25,14 +27,14 @@ app, I wrote my own! I hooked it up to the Ambient Weather sensors I already had
 the rooms we actually live in, and decided it was worth releasing for everyone else stuck in the same spot.
 
 That app is Hearth, and it works with Daikin, Amana, and Goodman smart thermostats ... and just about any other
-thermostat you've got in Home Assistant, too. **Get started at
-[meethearth.app](https://meethearth.app/)**.
+thermostat you've got in Home Assistant, too. And you can check it out at **[meethearth.app](https://meethearth.app/)**!
 
-## The Rooms We Actually Live In
+## The Rooms You Actually Live In
 
 Here's what bugged me most. A thermostat on the wall only knows how warm it is right where it's mounted, and that's
-rarely where any of us actually are. What I wanted was simple: comfortable bedrooms at night, a comfortable living room
-during the day, and nobody getting up to fiddle with the thermostat to make that happen.
+rarely where any of us actually are. What I wanted was simple: cool bedrooms at night, a comfy living room
+during the day, and a cozy basement at night when we're watching a movie, with nobody needing to get up to mess with
+the thermostat or app at any point.
 
 That's what Hearth does for us now. It watches the rooms that matter at the moment and nudges the thermostat until
 they're right. Honestly, it's the part I'd have the hardest time giving up.
@@ -46,7 +48,7 @@ so pretty much any temperature sensor Home Assistant can see (Zigbee, Z-Wave, Bl
 a room in Hearth. Your own scripts can send their readings in, too. The
 [sensor guides](https://www.meethearth.app/support#sensors) on the Hearth site have all the details.
 
-## Home Assistant, Both Ways
+## Home Assistant FTW
 
 That integration doesn't stop at sensors. If your thermostat is one Hearth can't talk to directly, but Home Assistant
 can, Hearth can run it through Home Assistant, room following and all. It's the same app on your phone either way;
@@ -56,7 +58,7 @@ is open source as [ha-hearth](https://github.com/alexdlaird/ha-hearth).
 
 ## Around the Campfire
 
-A bit of a confession. The name, and the whole look of the app, is a little homage to one of my favorite video games of
+A bit of a confession. The name, and the whole look of the app, is an homage to one of my favorite video games of
 all time. If you've played it, you'll probably catch it right away: a small forest planet at night, pine green
 throughout, campfire orange for heating, geyser blue for cooling, and a tiny planet and its moon orbiting while things
 load.
@@ -73,4 +75,4 @@ Hearth is out now on the [App Store](https://apps.apple.com/app/id6816728401) an
 life. Homes that join later will pay a small yearly fee to cover running costs.
 
 Spread the word! Head to [meethearth.app](https://meethearth.app/) to get started, and if you have questions or
-feedback, write to [contact@meethearth.app](mailto:contact@meethearth.app).
+feedback, let me know at [contact@meethearth.app](mailto:contact@meethearth.app).
