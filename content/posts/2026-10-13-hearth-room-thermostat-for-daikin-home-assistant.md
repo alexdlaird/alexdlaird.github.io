@@ -14,7 +14,7 @@ tags:
   - "thermostat"
 ---
 
-<p align="center"><img alt="Hearth - Room thermostat for Daikin, Amana, and Goodman" src="https://www.meethearth.app/icon-512.png" width="200" /></p>
+<p align="center"><img alt="Hearth - Room thermostat for Daikin &amp; Home Assistant" src="https://www.meethearth.app/icon-512.png" width="200" /></p>
 
 For years, we had a Nest and loved it. Then we put in a new HVAC system from Amana. And, the system itself ... it's
 amazing and we love _it_ too ... the catch is, the system vendor locks you into using their own app for the thermostat.
