@@ -39,7 +39,7 @@ pip install amazon-orders --upgrade
 
 That's it! `amazon-orders` is now available as a package to your Python projects and from the command line.
 
-If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (e.g. `==4.11.*`, not `==4.11.0`) to
+If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (e.g. `==5.2.*`, not `==5.2.0`) to
 ensure you always get the latest stable release.
 
 ## Basic Usage
