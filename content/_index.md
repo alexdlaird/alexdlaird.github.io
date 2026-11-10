@@ -14,5 +14,5 @@ A free, open-source student planner I've been developing since 2009 — color-co
 {{< /project-card >}}
 
 {{< project-card icon="📦" name="amazon-orders" url="https://github.com/alexdlaird/amazon-orders" badge-url="https://pepy.tech/project/amazon-orders" badge-img="https://static.pepy.tech/badge/amazon-orders" badge-alt="Downloads" >}}
-A Python library (and CLI) for Amazon order history, line items, and transactions
+A Python library (and CLI) for Amazon order history, line items, and transactions (also see [amazon-auth](https://github.com/alexdlaird/amazon-auth))
 {{< /project-card >}}
