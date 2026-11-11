@@ -16,7 +16,7 @@ tags:
 coverImage: "logo.png"
 ---
 
-<p align="center"><img alt="java-ngrok - The complete ngrok agent for Java: programmatic tunnels for ingress, inspection, webhooks, demos, and APIs" src="logo.png" /></p>
+<p align="center"><img alt="java-ngrok - The complete ngrok agent for Java: programmatic tunnels for ingress, inspection, webhooks, demos, and APIs" src="https://raw.githubusercontent.com/alexdlaird/java-ngrok/develop/logo.png" /></p>
 
 [![Version](https://img.shields.io/maven-central/v/com.github.alexdlaird/java-ngrok)](https://central.sonatype.com/artifact/com.github.alexdlaird/java-ngrok)
 [![Java Versions](https://img.shields.io/badge/Java-11+-blue)](https://central.sonatype.com/artifact/com.github.alexdlaird/java-ngrok)

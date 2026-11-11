@@ -6,6 +6,7 @@ preserves the post's existing frontmatter, and replaces the body. Writes
 files only when content changed.
 """
 
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -13,8 +14,11 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 POSTS_DIR = REPO_ROOT / "content" / "posts"
-README_URL_TEMPLATE = "https://raw.githubusercontent.com/{repo}/develop/README.md"
+RAW_URL_TEMPLATE = "https://raw.githubusercontent.com/{repo}/develop/{path}"
 FETCH_TIMEOUT_SECONDS = 30
+HTML_IMAGE_SRC = re.compile(r"""(<img\b[^>]*?\bsrc=["'])([^"']+)(["'])""", re.IGNORECASE)
+MARKDOWN_IMAGE_SRC = re.compile(r"(!\[[^\]]*\]\()([^)\s]+)")
+ABSOLUTE_URL = re.compile(r"^([a-z][a-z0-9+.-]*:|//|#)", re.IGNORECASE)
 
 SYNC_MAP = {
     "alexdlaird/amazon-orders": "2024-01-31-amazon-orders-python-library.md",
@@ -25,9 +29,22 @@ SYNC_MAP = {
 
 
 def fetch_readme(repo: str) -> str:
-    url = README_URL_TEMPLATE.format(repo=repo)
+    url = RAW_URL_TEMPLATE.format(repo=repo, path="README.md")
     with urllib.request.urlopen(url, timeout=FETCH_TIMEOUT_SECONDS) as response:
         return response.read().decode("utf-8")
+
+
+def absolutize_relative_images(repo: str, readme: str) -> str:
+    """Point repo-relative image paths at raw GitHub, since they don't resolve on the blog."""
+
+    def to_raw_url(match: re.Match) -> str:
+        prefix, path, *suffix = match.groups()
+        if not ABSOLUTE_URL.match(path):
+            path = RAW_URL_TEMPLATE.format(repo=repo, path=path.removeprefix("./").lstrip("/"))
+        return prefix + path + "".join(suffix)
+
+    readme = HTML_IMAGE_SRC.sub(to_raw_url, readme)
+    return MARKDOWN_IMAGE_SRC.sub(to_raw_url, readme)
 
 
 def split_frontmatter(content: str) -> tuple[str, str]:
@@ -55,7 +72,7 @@ def sync_one(repo: str, post_name: str) -> bool:
 
     existing = post_path.read_text(encoding="utf-8")
     frontmatter, _ = split_frontmatter(existing)
-    readme = fetch_readme(repo)
+    readme = absolutize_relative_images(repo, fetch_readme(repo))
     new_content = build_post(frontmatter, readme)
 
     if new_content == existing:
