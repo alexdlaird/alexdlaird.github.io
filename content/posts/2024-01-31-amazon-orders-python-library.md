@@ -24,6 +24,8 @@ coverImage: "Screenshot-2024-03-03-at-7.22.55 PM.png"
 [![GitHub License](https://img.shields.io/github/license/alexdlaird/amazon-orders)](https://github.com/alexdlaird/amazon-orders/blob/main/LICENSE)
 
 `amazon-orders` is an unofficial library that provides a Python API (and CLI) for Amazon order history, line items, and transactions.
+Signing in to Amazon is handled by [`amazon-auth`](https://github.com/alexdlaird/amazon-auth), the authentication
+package `amazon-orders` is built on.
 
 > **Note:** This package works by parsing data from Amazon's consumer-facing website. A periodic build validates
 > functionality to ensure its stability, but as Amazon provides no official API to use, older versions of this
@@ -39,7 +41,7 @@ pip install amazon-orders --upgrade
 
 That's it! `amazon-orders` is now available as a package to your Python projects and from the command line.
 
-If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (e.g. `==5.2.*`, not `==5.2.0`) to
+If pinning, be sure to use a wildcard for the [minor version](https://semver.org/) (e.g. `==5.4.*`, not `==5.4.0`) to
 ensure you always get the latest stable release.
 
 ## Basic Usage
@@ -81,7 +83,7 @@ populated with full details.
 
 ### Command Line Usage
 
-You can also run any command available to the main Python interface from the command line:
+You can also run most of the main Python interface from the command line:
 
 ```sh
 amazon-orders login
@@ -138,7 +140,8 @@ amazon_session = AmazonSession()
 amazon_session.login()
 ```
 
-This requires a display and the `browser` extra (see [Browser Automation](https://amazon-orders.readthedocs.io/browser.html#installation) to install it).
+This requires a display and the `browser` extra (`pip install amazon-orders[browser]`, see
+[Browser Automation](https://amazon-auth.readthedocs.io/browser.html)).
 
 ### Automating Authentication
 
@@ -171,10 +174,10 @@ browser opens on Amazon's password or passkey step. The browser never fills in y
 
 An AI assistant has two ways to use `amazon-orders`. One that runs commands uses the CLI or the library directly, just
 as shown above. Any MCP client gets the same as tools through
-[`amazon-orders-mcp`](https://github.com/alexdlaird/amazon-orders-mcp#readme), a server built on `amazon-orders` — see
-its README for setup.
+[`amazon-orders-mcp`](https://amazon-orders-mcp.readthedocs.io), a server built on `amazon-orders`. See
+its documentation for setup.
 
-The server signs you in with a browser, so it needs a display. Without one, use the CLI or library with
+The server signs you in with a browser. Without a display, sign in with the CLI first, or use the library with
 [Automating Authentication](#automating-authentication).
 
 ## Documentation
