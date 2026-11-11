@@ -18,8 +18,8 @@ FETCH_TIMEOUT_SECONDS = 30
 
 SYNC_MAP = {
     "alexdlaird/amazon-orders": "2024-01-31-amazon-orders-python-library.md",
-    "alexdlaird/java-ngrok": "2021-08-27-java-ngrok-a-java-wrapper-for-ngrok.md",
-    "alexdlaird/pyngrok": "2019-01-21-pyngrok-a-python-wrapper-for-ngrok.md",
+    "alexdlaird/java-ngrok": "2021-08-27-java-ngrok-the-complete-ngrok-agent-for-java.md",
+    "alexdlaird/pyngrok": "2019-01-21-pyngrok-the-complete-ngrok-agent-for-python.md",
     "alexdlaird/hookee": "2020-09-12-hookee-command-line-webhooks-on-demand.md",
 }
 

@@ -1,5 +1,5 @@
 ---
-title: "hookee - command line webhooks, on demand"
+title: "hookee - Command Line Webhooks, On Demand"
 date: 2020-09-12
 slug: "hookee-command-line-webhooks-on-demand"
 aliases:

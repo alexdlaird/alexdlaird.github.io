@@ -1,8 +1,9 @@
 ---
-title: "java-ngrok - a Java wrapper for ngrok"
+title: "java-ngrok - The Complete ngrok Agent for Java"
 date: 2021-08-27
-slug: "java-ngrok-a-java-wrapper-for-ngrok"
+slug: "java-ngrok-the-complete-ngrok-agent-for-java"
 aliases:
+  - /2021/08/java-ngrok-a-java-wrapper-for-ngrok/
   - /2021/08/java-ngrok---a-java-wrapper-for-ngrok/
 tags: 
   - "education"

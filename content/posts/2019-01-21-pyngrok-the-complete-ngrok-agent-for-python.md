@@ -1,8 +1,9 @@
 ---
-title: "pyngrok - a Python wrapper for ngrok"
+title: "pyngrok - The Complete ngrok Agent for Python"
 date: 2019-01-21
-slug: "pyngrok-a-python-wrapper-for-ngrok"
+slug: "pyngrok-the-complete-ngrok-agent-for-python"
 aliases:
+  - /2019/01/pyngrok-a-python-wrapper-for-ngrok/
   - /2019/01/pyngrok---a-python-wrapper-for-ngrok/
 tags: 
   - "education"

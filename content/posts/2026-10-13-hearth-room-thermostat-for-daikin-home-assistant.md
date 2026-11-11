@@ -1,5 +1,5 @@
 ---
-title: "Hearth - a room thermostat for Daikin & Home Assistant"
+title: "Hearth - A Room Thermostat for Daikin & Home Assistant"
 date: 2026-10-13
 slug: "hearth-room-thermostat-for-daikin-home-assistant"
 aliases:
